@@ -1,0 +1,730 @@
+{
+    "appLocale": {
+      "landingHeaderText": "<questionLength> Questões",
+      "question": "Questão",
+      "startQuizBtn": "Começar",
+      "resultFilterAll": "Todos",
+      "resultFilterCorrect": "Correcto",
+      "resultFilterIncorrect": "Incorrecto",
+      "prevQuestionBtn": "Anterior",
+      "nextQuestionBtn": "Proximo",
+      "resultPagePoint": "Pontuação: <correctPoints> de <totalPoints>.",
+      "resultPageHeaderText": "Quiz completo! Alcançaste <correctIndexLength> pontos em <questionLength> questões.",
+      "marksOfQuestion":"(<marks> pontos)",
+      "singleSelectionTagText": "Resposta única",
+      "pickNumberOfSelection": "Selecione <numberOfSelection> questão"
+      },
+  
+      "quizTitle": "Teste Geral (2)",
+      "quizSynopsis": "Testa os teus conhecimentos sobre todos os temas.",
+      "questions": [
+        {
+          "question": "A epopeia é um género do modo:",
+          "questionType": "text",
+          "answers": [
+            "Lírico",
+            "Dramático",
+            "Narrativo",
+            "Cómico"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "As estrofes de Os Lusíadas são constituídas, do ponto de vista da estrutura externa, por versos:",
+          "questionType": "text",
+          "answers": [
+            "Decassilábicos",
+            "Octossilábicos",
+            "Eneassilábicos",
+            "Hexassilábicos ou Heróicos Quebrados"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Tradicionalmente, a ação de uma epopeia inicia-se:",
+          "questionType": "text",
+          "answers": [
+            "No seu fim",
+            "No seu princípio",
+            "'in medias res'",
+            "Em qualquer um dos Cantos"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Os Lusíadas reportam a história",
+          "questionType": "text",
+          "answers": [
+            "Da viagem de Pedro Álvares Cabral ao Brasil",
+            "Do território português desde as campanhas de Viriato ao reinado de D. Sebastião",
+            "Da viagem de Cristóvão Colombo ao Novo Mundo",
+            "A tentativa de circum-navegação do mundo por Fernão de Magalhães"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "\"Essência\" é uma palavra:",
+          "questionType": "text",
+          "answers": [
+            "monossílaba",
+            "dissílaba",
+            "trissílaba",
+            "polissílaba"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "\"Cristandade\" é uma palavra derivada por:",
+          "questionType": "text",
+          "answers": [
+            "prefixação",
+            "sufixação",
+            "parassíntese",
+            "prefixação e sufixação"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Terramoto, terráqueo, enterrado e terra são:",
+          "questionType": "text",
+          "answers": [
+            "acrónimos",
+            "palavras homófonas",
+            "palavras da mesma família",
+            "o campo semântico de terra"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Uma cáfila é um conjunto de:",
+          "questionType": "text",
+          "answers": [
+            "Camelos",
+            "Malfeitores",
+            "Soldados",
+            "Cães vadios"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Em Portugal, nas eleições autárquicas, quais são os órgãos das autarquias locais eleitos por sufrágio universal direto?",
+          "questionType": "text",
+          "answers": [
+            "Câmara Municipal, Assembleia Municipal, Junta de Freguesia e Assembleia de Freguesia",
+            "Câmara Municipal, Assembleia Municipal e Assembleia de Freguesia",
+            "Presidente da Câmara Municipal e Presidente da Junta de Freguesia",
+            "Câmara Municipal, Junta de Freguesia e Assembleia Municipal"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Mauricio e Charlotte Botton decidiram unir-se à fundação Champalimaud sedeada em Lisboa, junto ao Tejo, fazendo um investimento de cerca de 50 milhões de Euros, para a construção de um centro de estudo e tratamento de uma doença que tem conhecido nos últimos anos um desenvolvimento inexplicável. O novo Centro de Investigação vai dedicar-se ao estudo e tratamento de que doença?",
+          "questionType": "text",
+          "answers": [
+            "Malária",
+            "Cancro da Próstata",
+            "Cancro do Pâncreas",
+            "Doença de Alzheimer"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Em que país se situa o Memorial e Museu de Auschwitz-Birkenau, local de antigos campos de concentração nazis?",
+          "questionType": "text",
+          "answers": [
+            "Hungria",
+            "Áustria",
+            "Alemanha",
+            "Polónia"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Nos atentados terroristas do \"11 de Setembro de 2001\", quantos foram os aviões capturados e utilizados pelos terroristas?",
+          "questionType": "text",
+          "answers": [
+            "3",
+            "4",
+            "5",
+            "2"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "O Padrão dos Descobrimentos é composto por esculturas de 33 das principais figuras dos descobrimentos portugueses. Indique qual a figura que se destaca à frente e numa posição cimeira:",
+          "questionType": "text",
+          "answers": [
+            "Pedro Álvares Cabral",
+            "D. Afonso V",
+            "Vasco da Gama",
+            "Infante D. Henrique"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Na edição dos Óscares de 2018, o prémio de melhor filme foi atribuído a:",
+          "questionType": "text",
+          "answers": [
+            "Hacksaw Ridge",
+            "Moonlight",
+            "The Shape of Water",
+            "Lady Bird"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Cronista do Expresso, autor de vários romances, nomeadamente do best seller Equador, Miguel Sousa Tavares, é filho da também escritora:",
+          "questionType": "text",
+          "answers": [
+            "Agustina Bessa Luis",
+            "Sophia de Mello Breyner Andersen",
+            "Teodolinda Gersão",
+            "Ana de Castro Osório"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "A comunidade mundial, preocupada com o aquecimento global do planeta, devido à emissão de gases de efeito de estufa, tem desenvolvido instrumentos jurídicos a que se vincula e que pretendem controlar e reduzir essas emissões. Em 2015, foi assinado um documento que vem na sequência do Protocolo de Kyoto e que procura reger as medidas de mitigação das mudanças climáticas a partir de 2020. Trata-se de:",
+          "questionType": "text",
+          "answers": [
+            "Emenda de Helsínquia",
+            "Convenção de Buenos Aires",
+            "Protocolo de Durban",
+            "Acordo de Paris"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Acontecimentos recentes enfatizaram e tornaram imperativa a necessidade da criação de uma entidade dedicada exclusivamente ao acompanhamento e ao exercício dos poderes de autoridade do Estado no âmbito da violência no desporto. Desta forma foi criada pelo Decreto Regulamentar no 10/2018, de 03 de outubro, a seguinte entidade:",
+          "questionType": "text",
+          "answers": [
+            "Autoridade para prevenção do racismo e xenofobia no Desporto",
+            "Conselho de Supervisão da Violência no Desporto",
+            "Instituto Português da Prevenção da Violência",
+            "Autoridade para a Prevenção e o Combate à Violência no Desporto"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Qual é a capital da Noruega?",
+          "questionType": "text",
+          "answers": [
+            "Helsínquia",
+            "Malmö",
+            "Oslo",
+            "Reykjavik"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Entre as seguintes afirmações, indique aquela que melhor define a escala de Richter:",
+          "questionType": "text",
+          "answers": [
+            "Escala utilizada para tratamentos estatísticos e muito usada nos recenseamentos",
+            "Escala que mede a intensidade de um sismo, através da avaliação dos danos produzidos",
+            "Escala utilizada para classificar as pessoas mais ricas de um determinado país",
+            "Escala que mede a magnitude de um sismo, através dos registos de sismógrafos"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "O Monte Branco (Mont Blanc) é uma montanha com uma altitude superior a 4800 metros. Em que cordilheira está localizada?",
+          "questionType": "text",
+          "answers": [
+            "Montes Urais",
+            "Pireneus",
+            "Himalaias",
+            "Alpes"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "No que diz respeito aos feriados nacionais, o feriado de 5 de outubro assinala:",
+          "questionType": "text",
+          "answers": [
+            "A Restauração da Independência",
+            "O Dia de Portugal",
+            "A Implantação da República Portuguesa",
+            "O Dia do Trabalhador"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Lisboa recebeu nos últimos anos uma das maiores feiras de tecnologia e inovação. Trata-se da:",
+          "questionType": "text",
+          "answers": [
+            "Internet World Congress",
+            "Mobile World Congress",
+            "Web Summit",
+            "Internet Summit Expo"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Brexit é a expressão comummente utilizada para designar:",
+          "questionType": "text",
+          "answers": [
+            "O processo de independência da Catalunha",
+            "A adesão de novos membros à NATO",
+            "O fenómeno de aquecimento da atmosfera terrestre em consequência do efeito de estufa",
+            "O processo de saída do Reino Unido da União Europeia"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "O Oceanário de Lisboa foi inaugurado em:",
+          "questionType": "text",
+          "answers": [
+            "1998",
+            "2000",
+            "1992",
+            "2002"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "A organização terrorista com pretensões de controlar o terrorismo internacional de influência islâmica, cujo líder mais conhecido foi Osama Bin Laden, denomina-se:",
+          "questionType": "text",
+          "answers": [
+            "Al-Qaeda",
+            "Isis",
+            "Conselho Shura Mujahideen",
+            "El Jabha El Islamiya"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Interpretação dos preceitos constitucionais relativos aos direitos fundamentais, deve ser feita:",
+          "questionType": "text",
+          "answers": [
+            "De harmonia com os princípios gerais de direito",
+            "De harmonia com a Declaração Universal dos Direitos Humanos",
+            "De harmonia com a Declaração Europeia dos Direitos Humanos",
+            "De harmonia com a Convenção Europeia dos Direitos Humanos"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Os direitos, liberdades e garantias podem:",
+          "questionType": "text",
+          "answers": [
+            "Ser objeto de restrição nos casos previstos na CRP e na Lei",
+            "Ser sempre objeto de restrição",
+            "Nunca podem ser objeto de restrição",
+            "Ser objeto de restrição mas apenas, para salvaguarda doutros direitos e deveres e nos casos em que a constituição o preveja"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Segundo a CRP, os Direitos Fundamentais são:",
+          "questionType": "text",
+          "answers": [
+            "Aqueles que se encontram plasmados na CRP, os reconhecidos pelo Direito Internacional, bem como aqueles que se encontram em legislação ordinária",
+            "Aqueles que se encontram plasmados na CRP e na legislação ordinária",
+            "Aqueles que se encontram plasmados na CRP, na legislação extravagante e todos os reconhecidos pelo Direito Internacional Privado",
+            "Aqueles que foram convencionados pelo Estado Português e que tenham força de reserva de lei"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Em caso de omissão de que resulte violação de direitos, liberdades e garantias, os funcionários da PSP são:",
+          "questionType": "text",
+          "answers": [
+            "Responsáveis cíveis a título individual",
+            "Responsáveis cíveis em forma solidária com o Estado",
+            "Responsáveis cíveis solidariamente com o Estado se a omissão foi praticada no exercício de funções",
+            "Responsáveis cíveis solidariamente com o Estado se a omissão foi praticada no exercício de funções e por causa delas"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "O Princípio da Proporcionalidade ou da Proibição do Excesso tem como requisitos:",
+          "questionType": "text",
+          "answers": [
+            "A necessidade, e a clareza das ações por parte dos Órgãos do Governo",
+            "A precisão e a determinabilidade das leis, quanto aos seus limites formais e materiais",
+            "Proporcionalidade quanto à Proteção da Confiança em sentido estrito, bem como a exigibilidade de uma atuação de acordo com a lei fundamental",
+            "A necessidade, exigibilidade; adequação e proporcionalidade"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "A declaração do estado de sítio ou do estado de emergência terá que:",
+          "questionType": "text",
+          "answers": [
+            "Ser fundamentada, especificar os Direitos Liberdades e Garantias que são suspensos, especificar o tempo de duração, que não poderá exceder 15 dias",
+            "Ser fundamentada, especificar os D.L.G. que são suspensos",
+            "Especificar o tempo de duração que não poderá exceder 15 dias",
+            "Ser publicada no Diário da República, especificar os D.L.G. que são suspensos, e a sua duração que não poderá exceder 15 dias"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "A Declaração Universal dos Direitos Humanos (DUDH) foi proclamada pela Assembleia Geral das Nações Unidas em:",
+          "questionType": "text",
+          "answers": [
+            "Paris",
+            "Nova Iorque",
+            "Londres",
+            "Lisboa"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "A Declaração Universal dos Direitos Humanos (DUDH), foi proclamada pela Assembleia Geral das Nações Unidas em:",
+          "questionType": "text",
+          "answers": [
+            "10 de Dezembro de 1948",
+            "10 de Dezembro de 1958",
+            "10 de Dezembro de 1968",
+            "10 de Outubro de 1948"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Declaração Universal dos Direitos Humanos (DUDH) das Nações Unidas foi proclamada:",
+          "questionType": "text",
+          "answers": [
+            "Na sequência das experiências catastróficas da primeira Guerra Mundial",
+            "Na sequência das experiências tenebrosas do Holocausto e da segunda Guerra Mundial",
+            "Na sequência da guerra dos 100 anos",
+            "Na sequência do armistício que pôs fim à primeira Grande Guerra"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Os direitos ínsitos na Declaração Universal dos Direitos Humanos (DUDH) são:",
+          "questionType": "text",
+          "answers": [
+            "Regionais e divisíveis",
+            "Universais e divisíveis",
+            "Universais e indivisíveis",
+            "Universais e transmissíveis"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "A organização terrorista com pretensões de controlar o terrorismo internacional de influência islâmica, cujo líder mais conhecido foi Osama Bin Laden, denomina-se:",
+          "questionType": "text",
+          "answers": [
+            "Al-Qaeda",
+            "Isis",
+            "Conselho Shura Mujahideen",
+            "El Jabha El Islamiya"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Interpretação dos preceitos constitucionais relativos aos direitos fundamentais, deve ser feita",
+          "questionType": "text",
+          "answers": [
+            "De harmonia com os princípios gerais de direito",
+            "De harmonia com a Declaração Universal dos Direitos Humanos",
+            "De harmonia com a Declaração Europeia dos Direitos Humanos",
+            "De harmonia com a Convenção Europeia dos Direitos Humanos"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Os direitos, liberdades e garantias podem:",
+          "questionType": "text",
+          "answers": [
+            "Ser objeto de restrição nos casos previstos na CRP e na Lei",
+            "Ser sempre objeto de restrição",
+            "Nunca podem ser objeto de restrição",
+            "Ser objeto de restrição mas apenas, para salvaguarda doutros direitos e deveres e nos casos em que a constituição o preveja"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Segundo a CRP, os Direitos Fundamentais são",
+          "questionType": "text",
+          "answers": [
+            "Aqueles que se encontram plasmados na CRP, os reconhecidos pelo Direito Internacional, bem como aqueles que se encontram em legislação ordinária",
+            "Aqueles que se encontram plasmados na CRP e na legislação ordinária",
+            "Aqueles que se encontram plasmados na CRP, na legislação extravagante e todos os reconhecidos pelo Direito Internacional Privado",
+            "Aqueles que foram convencionados pelo Estado Português e que tenham força de reserva de lei"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Em caso de omissão de que resulte violação de direitos, liberdades e garantias, os funcionários da PSP são:",
+          "questionType": "text",
+          "answers": [
+            "Responsáveis cíveis a título individual",
+            "Responsáveis cíveis em forma solidária com o Estado",
+            "Responsáveis cíveis solidariamente com o Estado se a omissão foi praticada no exercício de funções",
+            "Responsáveis cíveis solidariamente com o Estado se a omissão foi praticada no exercício de funções e por causa delas"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "O Princípio da Proporcionalidade ou da Proibição do Excesso tem como requisitos:",
+          "questionType": "text",
+          "answers": [
+            "A necessidade, e a clareza das ações por parte dos Órgãos do Governo",
+            "A precisão e a determinabilidade das leis, quanto aos seus limites formais e materiais",
+            "Proporcionalidade quanto à Proteção da Confiança em sentido estrito, bem como a exigibilidade de uma atuação de acordo com a lei fundamental",
+            "A necessidade, exigibilidade; adequação e proporcionalidade"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "A declaração do estado de sítio ou do estado de emergência terá que:",
+          "questionType": "text",
+          "answers": [
+            "Ser fundamentada, especificar os Direitos Liberdades e Garantias que são suspensos, especificar o tempo de duração, que não poderá exceder 15 dias",
+            "Ser fundamentada, especificar os D.L.G. que são suspensos",
+            "Especificar o tempo de duração que não poderá exceder 15 dias",
+            "Ser publicada no Diário da República, especificar os D.L.G. que são suspensos, e a sua duração que não poderá exceder 15 dias"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "A Declaração Universal dos Direitos Humanos (DUDH) foi proclamada pela Assembleia Geral das Nações Unidas em:",
+          "questionType": "text",
+          "answers": [
+            "Paris",
+            "Nova Iorque",
+            "Londres",
+            "Lisboa"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "A Declaração Universal dos Direitos Humanos (DUDH), foi proclamada pela Assembleia Geral das Nações Unidas em:",
+          "questionType": "text",
+          "answers": [
+            "10 de Dezembro de 1948",
+            "10 de Dezembro de 1958",
+            "10 de Dezembro de 1968",
+            "10 de Outubro de 1948"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Declaração Universal dos Direitos Humanos (DUDH) das Nações Unidas foi proclamada:",
+          "questionType": "text",
+          "answers": [
+            "Na sequência das experiências catastróficas da primeira Guerra Mundial",
+            "Na sequência das experiências tenebrosas do Holocausto e da segunda Guerra Mundial",
+            "Na sequência da guerra dos 100 anos",
+            "Na sequência do armistício que pôs fim à primeira Grande Guerra"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Os direitos ínsitos na Declaração Universal dos Direitos Humanos (DUDH) são:",
+          "questionType": "text",
+          "answers": [
+            "Regionais e divisíveis",
+            "Universais e divisíveis",
+            "Universais e indivisíveis",
+            "Universais e transmissíveis"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "A Declaração Universal dos Direitos Humanos (DUDH) foi proclamada:",
+          "questionType": "text",
+          "answers": [
+            "Pelo Conselho Permanente das Nações Unidas",
+            "Pelo Comitê Permanente de Prevenção Contra a Tortura das Nações Unidas",
+            "Pela Assembleia Geral das Nações Unidas",
+            "Pelo Secretário-geral das Nações Unidas"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Os elementos da PSP com funções policiais são considerados agentes da força pública e de autoridade quando lhes não deva ser atribuído qualidade superior. São consideradas autoridades de polícia:",
+          "questionType": "text",
+          "answers": [
+            "O comandante-geral, o 2.o comandante-geral, o inspetor nacional, os comandantes dos Comandos Operacionais da PSP, outros oficiais da PSP, quando no exercício de funções de comando ou chefia operacional.",
+            "O diretor nacional, os diretores nacionais adjuntos, o inspetor nacional, o comandante da Unidade Especial de Polícia, os comandantes das unidades e subunidades até ao nível de esquadra, todos os oficiais da PSP.",
+            "O diretor nacional, os diretores nacionais adjuntos, o inspetor nacional, o comandante da Unidade Especial de Polícia, os comandantes das unidades e subunidades até ao nível de esquadra, outros oficiais da PSP, quando no exercício de funções de comando ou chefia operacional.",
+            "O comandante-geral, o 2.o comandante-geral, o inspetor nacional, o comandante da Unidade Especial de Polícia, os comandantes das unidades e subunidades até ao nível de esquadra, todos os oficiais da PSP no exercício de funções de comando ou chefia operacional."
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Os elementos da PSP no exercício do comando de forças têm a categoria de comandantes de força pública. Considera-se força pública:",
+          "questionType": "text",
+          "answers": [
+            "O efetivo mínimo de dois agentes em missão de serviço",
+            "O efetivo mínimo de seis agentes em missão de serviço",
+            "O efetivo mínimo de seis agentes, chefiados por um oficial, em missão de serviço",
+            "O efetivo mínimo de dois agentes, chefiados por um chefe, em missão de serviço"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "A Lei n.º 53/2007 de 31 de Agosto aprova a orgânica da Polícia de Segurança Pública e define órgãos de polícia criminal como:",
+          "questionType": "text",
+          "answers": [
+            "Os Oficiais e Chefes da PSP com funções policiais incumbidos de realizar quaisquer atos ordenados por autoridade judiciária ou determinados pelo Código de Processo Penal",
+            "Todos os elementos da PSP com funções policiais incumbidos de realizar quaisquer atos ordenados por autoridade judiciária ou determinados pelo Código de Processo Penal",
+            "Todos os elementos da PSP com funções policiais incumbidos de realizar quaisquer atos ordenados por autoridade judiciária ou determinados pelo Código de Processo Administrativo",
+            "Todos os elementos da PSP com funções policiais e com o curso de investigação criminal, incumbidos de realizar quaisquer atos ordenados por autoridade judiciária ou determinados pelo Código de Processo Administrativo"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "A Direção Nacional compreende:",
+          "questionType": "text",
+          "answers": [
+            "O Comandante-geral, o 2.o Comandante-geral, o Comando Operacional, o Comando da Administração dos Recursos Internos e o Comando da Doutrina e Formação, a Inspeção e as unidades orgânicas de operações e segurança, de recursos humanos e de logística e finanças",
+            "O diretor nacional, os diretores nacionais adjuntos, o Conselho Superior de Polícia, o Conselho de Deontologia e Disciplina e a Junta Superior de Saúde, a Inspeção e as unidades orgânicas de operações e segurança, de recursos humanos e de logística e finanças",
+            "O diretor nacional, os diretores nacionais adjuntos, o Conselho Superior de Polícia, o Conselho de Deontologia e Disciplina e a Junta Superior de Saúde, a Inspeção Geral da Administração Interna",
+            "O diretor nacional, os diretores nacionais adjuntos, o Conselho Superior de Polícia, o Comando Operacional, o Comando da Administração dos Recursos Internos e a Inspeção Geral da Administração Interna"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Na PSP existem as seguintes unidades de polícia:",
+          "questionType": "text",
+          "answers": [
+            "A Unidade Especial de Polícia e os Comandos Territoriais de Polícia",
+            "A Unidade Especial de Polícia, a Unidade de Segurança e Honras de Estado e a Unidade de intervenção e reserva",
+            "Os Comandos Regionais de Polícia, os Comandos Metropolitanos de Polícia de Lisboa e do Porto e os Comandos Distritais de Polícia",
+            "A Unidade de Segurança e Honras de Estado e a Unidade de intervenção e reserva"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Os polícias exercem as suas funções devidamente uniformizados e armados. Para o exercício de funções operacionais ou de apoio:",
+          "questionType": "text",
+          "answers": [
+            "Que pela sua natureza e especificidade assim o exijam, nunca pode ser dispensado o uso de uniforme ou armamento",
+            "Que pela sua natureza e especificidade assim o exijam, pode ser dispensado o uso de uniforme ou armamento, nas condições fixadas por despacho do diretor nacional",
+            "Que pela sua natureza e especificidade assim o exijam, pode ser dispensado o uso de uniforme ou armamento, nas condições fixadas por despacho do Ministro da Administração Interna",
+            "Que pela sua natureza e especificidade assim o exijam, pode ser dispensado o uso de uniforme ou armamento, nas condições fixadas por despacho do Comandante direto"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Os polícias têm direito à dotação inicial do fardamento, aprovado por portaria do membro do Governo responsável pela área da administração interna, no momento do ingresso na PSP. Esta afirmação é:",
+          "questionType": "text",
+          "answers": [
+            "Verdadeira. A PSP participa nas despesas com a aquisição de fardamento efetuadas pelos polícias na efetividade de serviço, através da atribuição de uma comparticipação anual no valor de € 600, com a natureza de prestação social",
+            "Falsa. A PSP não participa nas despesas com a aquisição de fardamento efetuadas pelos polícias na efetividade de serviço",
+            "Verdadeira. A comparticipação anual no valor de € 600, com a natureza de prestação social, só é assegurada decorridos três anos sobre a data de ingresso na PSP",
+            "Falsa. Os polícias, quando nomeados para integrarem missões internacionais ou de cooperação policial, podem beneficiar de uma dotação complementar de fardamento e equipamento, pagas pelo próprio"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "O direito a férias é irrenunciável e o seu gozo efetivo não pode ser substituído por qualquer compensação económica, ainda que com o acordo do interessado. No ano civil de ingresso, os polícias:",
+          "questionType": "text",
+          "answers": [
+            "Têm direito a dois dias e meio de férias por cada um dos meses completos de serviço efetivo prestado até 31 de dezembro desse ano",
+            "Podem gozar as suas férias, após três meses completos de efetividade de serviço",
+            "Têm direito a dois dias úteis de férias por cada um dos meses completos de serviço efetivo prestado até 31 de dezembro desse ano",
+            "Podem gozar as suas férias, após doze meses completos de efetividade de serviço"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "A ausência, quando previsível, é comunicada por escrito ao superior hierárquico competente, acompanhada da indicação do motivo justificativo, com a antecedência mínima de cinco dias úteis. Esta afirmação é:",
+          "questionType": "text",
+          "answers": [
+            "Falsa. Os polícias podem faltar quatro dias por mês por conta do período de férias, até ao máximo de 15 dias por ano",
+            "Verdadeira. Os polícias podem faltar dois dias por mês por conta do período de férias, até ao máximo de 13 dias por ano",
+            "Falsa. As faltas por conta do período de férias são obrigatoriamente comunicadas com a antecedência mínima de 24 horas e estão sujeitas a autorização, que pode ser recusada se forem suscetíveis de causar prejuízo para o normal funcionamento do serviço, por decisão devidamente fundamentada",
+            "Verdadeira. As faltas por conta do período de férias são obrigatoriamente comunicadas com a antecedência mínima de 24 horas e não estão sujeitas a autorização"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "O Conselho delibera",
+          "questionType": "text",
+          "answers": [
+            "por maioria qualificada, salvo disposição em contrário dos Tratados",
+            "por maioria simples, salvo disposição em contrário dos Tratados",
+            "por unanimidade, salvo disposição em contrário dos Tratados",
+            "pelo método do voto secreto"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "O Parlamento Europeu (PE)",
+          "questionType": "text",
+          "answers": [
+            "exerce conjuntamente com o Conselho e a Comissão a função legislativa",
+            "é a única Instituição legislativa da União",
+            "é uma Instituição dotada de atribuições essencialmente executivas",
+            "é uma Instituição criada para exercer o direito de iniciativa legislativa"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "O Conselho Europeu",
+          "questionType": "text",
+          "answers": [
+            "desde sempre foi uma Instituição da União Europeia",
+            "é uma Instituição da União Europeia depois do Tratado de Maastricht",
+            "com o tratado de Lisboa passou a ser uma Instituição da União Europeia",
+            "é uma Agência Europeia"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        }
+      ]
+    }

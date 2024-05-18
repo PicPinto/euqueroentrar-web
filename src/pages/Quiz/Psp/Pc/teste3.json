@@ -1,0 +1,815 @@
+{
+    "appLocale": {
+      "landingHeaderText": "<questionLength> Questões",
+      "question": "Questão",
+      "startQuizBtn": "Começar",
+      "resultFilterAll": "Todos",
+      "resultFilterCorrect": "Correcto",
+      "resultFilterIncorrect": "Incorrecto",
+      "prevQuestionBtn": "Anterior",
+      "nextQuestionBtn": "Proximo",
+      "resultPagePoint": "Pontuação: <correctPoints> de <totalPoints>.",
+      "resultPageHeaderText": "Quiz completo! Alcançaste <correctIndexLength> pontos em <questionLength> questões.",
+      "marksOfQuestion":"(<marks> pontos)",
+      "singleSelectionTagText": "Resposta única",
+      "pickNumberOfSelection": "Selecione <numberOfSelection> questão"
+      },
+  
+      "quizTitle": "Teste Geral (3)",
+      "quizSynopsis": "Testa os teus conhecimentos sobre todos os temas.",
+      "questions": [
+        {
+          "question": "O que significa a palavra \"redundante\"?",
+          "questionType": "text",
+          "answers": [
+            "Supérfluo",
+            "Redondo",
+            "Importante",
+            "Redutor"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "O que significa a palavra \"lenidade\"?",
+          "questionType": "text",
+          "answers": [
+            "Bravura",
+            "Arte de trabalhar a lã",
+            "Rugosidade",
+            "Suavidade"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "De entre as hipóteses apresentadas, indique o antónimo de \"conciso\"?",
+          "questionType": "text",
+          "answers": [
+            "Abreviado",
+            "Lacónico",
+            "Convincente",
+            "Prolixo"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Indique de entre as hipóteses apresentadas, o antónimo de \"diligenciar\"?",
+          "questionType": "text",
+          "answers": [
+            "Esforçar-se por",
+            "Negligenciar",
+            "Intentar",
+            "Influenciar"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Qual das frases seguintes tem a forma verbal adequada?",
+          "questionType": "text",
+          "answers": [
+            "Ontem a PSP efetuou cinco detenções na cidade de Torres Novas",
+            "A comunicação social, no próximo sábado, acompanhou uma equipa de Investigação Criminal da PSP",
+            "Na semana passada nós vamos depor à Esquadra",
+            "Ontem, elementos da PSP, abrirão um inquérito crime"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Qual das seguintes palavras contém erro na acentuação?",
+          "questionType": "text",
+          "answers": [
+            "Miúdo",
+            "Estávamos",
+            "Veem-se",
+            "Libertássem"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "\"Ninguém\" é:",
+          "questionType": "text",
+          "answers": [
+            "Pronome possessivo",
+            "Pronome demonstrativo",
+            "Pronome relativo",
+            "Pronome indefinido"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Indique a frase em que o seu adjetivo se encontra no Grau Superlativo Absoluto Analítico",
+          "questionType": "text",
+          "answers": [
+            "O João é um aluno muito estudioso",
+            "O João é um aluno estudioso",
+            "O João é um aluno estudiosíssimo",
+            "João é um aluno tão estudioso como o Rui"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "As palavras \"concelho\" e \"conselho\" são:",
+          "questionType": "text",
+          "answers": [
+            "Palavras da mesma família",
+            "Palavras homónimas",
+            "Palavras homófonas",
+            "Palavras sinónimas"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "\"Quando\" é:",
+          "questionType": "text",
+          "answers": [
+            "Advérbio de lugar",
+            "Advérbio de tempo",
+            "Advérbio de modo",
+            "Uma preposição"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Das frases seguintes, apenas uma se encontra no pretérito perfeito",
+          "questionType": "text",
+          "answers": [
+            "Alva arrumou a casa toda",
+            "O Rui via televisão enquanto a Rute brincava",
+            "Eu serei um bom polícia",
+            "Eu tinha muita vontade de ser polícia"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Qual das frases complexas seguintes contém uma oração subordinada concessiva?",
+          "questionType": "text",
+          "answers": [
+            "Desde que haja bilhetes suficientes, podemos levar todos os alunos à estreia do espetáculo",
+            "Logo que haja bilhetes suficientes, podemos levar todos os alunos à estreia do espetáculo",
+            "Visto que o preço dos bilhetes é elevado, não posso assistir à estreia desse espetáculo",
+            "Ainda que o preço dos bilhetes seja elevado, não posso perder a estreia desse espetáculo"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "O atentado terrorista de Christchurch, na Nova Zelândia, que ocorreu em março de 2019, foi perpetrado por um cidadão australiano conotado como:",
+          "questionType": "text",
+          "answers": [
+            "Separatista",
+            "Anarquista",
+            "Supremacista-branco",
+            "Jihadista"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "O movimento \"Coletes Amarelos\", que teve início após o anúncio da subida dos impostos sobre os produtos petrolíferos, teve a sua origem:",
+          "questionType": "text",
+          "answers": [
+            "Em França",
+            "Na Bélgica",
+            "No Reino Unido",
+            "Em Espanha"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "A APAV, Associação Portuguesa de Apoio à Vítima, é uma instituição sem fins lucrativos com o intuito de, entre outras incumbências:",
+          "questionType": "text",
+          "answers": [
+            "Promover a proteção dos autores de práticas criminais, desde que declarado o arrependimento em sede de julgamento",
+            "Promover a proteção e apoio a vítimas de infrações criminais",
+            "Promover a proteção e apoio das vítimas de violência doméstica, predominantemente",
+            "Todas as opções estão corretas"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Na sequência da pandemia COVID-19, em julho de 2020, Donald Trump, presidente dos Estados Unidos da América, deu início ao processo de saída daquele país da:",
+          "questionType": "text",
+          "answers": [
+            "Organização Mundial de saúde",
+            "Organização do Tratado Atlântico Norte",
+            "Fundo Monetário Internacional",
+            "Organização das Nações Unidas"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Qual dos seguintes países faz fronteira com a Áustria?",
+          "questionType": "text",
+          "answers": [
+            "França",
+            "Polónia",
+            "Itália",
+            "Croácia"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Sergei Skripal, ex-oficial de inteligência militar russo, alegado agente duplo para os serviços de inteligência britânicos, foi, em 2018:",
+          "questionType": "text",
+          "answers": [
+            "Detido pela Sluzhba Vneshney Razvedki (SVR) e condenado a 30 anos de prisão pelo Supremo Tribunal de justiça Russo",
+            "Nomeado Cavaleiro-Grã-Cruz pela Rainha de Inglaterra",
+            "Autor de um livro best seller, com repercussão internacional, intitulado de \"a Toupeira\"",
+            "Assassinado por envenenamento"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "O Campeonato do Mundo de Atletismo, decorrido no passado ano de 2019, decorreu na cidade de Doha:",
+          "questionType": "text",
+          "answers": [
+            "No Koweit",
+            "Nos Emirados Árabes Unidos",
+            "Na Turquia",
+            "No Qatar"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Nos Óscares de 2020, quem ganhou o prémio para melhor filme:",
+          "questionType": "text",
+          "answers": [
+            "1917",
+            "Joker",
+            "Parasitas",
+            "A Herdade"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "A Frontex, criada em outubro de 2004, tem como missão, entre outras:",
+          "questionType": "text",
+          "answers": [
+            "Garantir a segurança das fronteiras externas europeias",
+            "Promover a investigação da criminalidade global",
+            "Garantir a segurança das fronteiras externas globais",
+            "Fiscalizar e punir a atividade dos serviços de fronteiras nacionais"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "O novo Coronavírus, designado SARS-CoV-2, identificado pela primeira vez em dezembro de 2019, na China, na cidade de Wuhan, tem como sintomas mais comuns:",
+          "questionType": "text",
+          "answers": [
+            "Febre, tosse, dor de garganta, manchas dermatológicas, dores musculares, entre outras",
+            "Febre, tosse, dor de garganta, cansaço, dores musculares, entre outros",
+            "Febre, tosse, dor de garganta, queda capilar, dores musculares, entre outras",
+            "Todas as opções anteriores estão incorretas. O SARS-CoV-2 é um vírus totalmente assintomático"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "O Ministério Público é um órgão",
+          "questionType": "text",
+          "answers": [
+            "judicial",
+            "governamental",
+            "religioso",
+            "colegial"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "A 31 de janeiro de 2020, o Reino Unido deixou de ser um Estado-Membro da União Europeia, entrando em vigor o Acordo de Saída. Esta \"saída\" é também designada de:",
+          "questionType": "text",
+          "answers": [
+            "Brexif",
+            "Brexout",
+            "Brexit",
+            "Ukout!"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "No âmbito da cibersegurança, o phishing é:",
+          "questionType": "text",
+          "answers": [
+            "O pacote de informação enviado de um servidor web para um programa de navegação, e depois reenviado sempre que este aceda ao servidor",
+            "O programa que é introduzido num sistema, geralmente de forma encoberta, com a intenção de comprometer a confidencialidade, a integridade ou a disponibilidade dos dados da vítima, de aplicações ou do sistema operativo, ou perturbando a vitima",
+            "Quando é redirecionado para websites falsos que solicitam informação pessoal",
+            "O envio aos internautas de mensagens de correio eletrónico, com a aparência de terem origem em organizações financeiras credíveis, mas com ligações para falsos sítios web que replicam os originais, e nos quais são feitos pedidos de atualização de dados privados dos clientes"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Qual das afirmações seguintes está errada:",
+          "questionType": "text",
+          "answers": [
+            "O \"Ecstasy”, também conhecido por MDMA, tem como efeitos imediatos, entre outros, a diminuição do apetite e a insónia",
+            "A \"Cannabis\", deriva de uma planta denominada \"Cannabis sativa\", também conhecido por \"erva\", \"marijuana\", \"haxixe\", entre outras designações, dependendo da forma de consumo, tem como efeitos imediatos, entre outros, a sonolência e a fragmentação dos pensamentos",
+            "A \"Cocaína\", deriva do ópio, enquanto produto natural proveniente da papoila \"Papaver Somniferum\", atua no sistema nervoso central causando sonolência e analgesia",
+            "A \"Heroína\" tem como efeitos imediatos, no sistema nervoso central, entre outros, a analgesia e a contração da pupila"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "De que tem medo quem sofre de claustrofobia?",
+          "questionType": "text",
+          "answers": [
+            "De animais",
+            "Da escuridão",
+            "Da interação social",
+            "De espaços fechados"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "A cortiça é um dos produtos naturais mais característicos de Portugal. De que árvore é produzida a cortiça?",
+          "questionType": "text",
+          "answers": [
+            "Oliveira",
+            "Eucalipto",
+            "Pinheiro",
+            "Sobreiro"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "No que diz respeito aos feriados nacionais, o Dia de Portugal, Camões e das Comunidades é assinalado todos os anos em:",
+          "questionType": "text",
+          "answers": [
+            "5 de outubro",
+            "10 de junho",
+            "1 de novembro",
+            "25 de abril"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Segundo a alínea a) do n.o 2 do artigo 64.o da CRP, o direito à proteção da saúde é realizado:",
+          "questionType": "text",
+          "answers": [
+            "Através de um serviço nacional de saúde universal e geral e, tendo em conta as condições económicas e sociais dos cidadãos, gratuito",
+            "Através de um serviço nacional de saúde universal e geral e, tendo em conta as condições económicas e sociais dos cidadãos, tendencialmente gratuito",
+            "Através de um serviço nacional de saúde local e restrito e, tendo em conta as condições económicas e sociais dos cidadãos, tendencialmente gratuito",
+            "Através de um serviço nacional de saúde local e restrito e, tendo em conta as condições económicas e sociais dos cidadãos, gratuito"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "A Constituição da República Portuguesa confere aos jovens o gozo de proteção especial para efetivação dos seus direitos económicos, sociais e culturais, nomeadamente:",
+          "questionType": "text",
+          "answers": [
+            "No ensino, na formação profissional e na cultura",
+            "Na educação física e no desporto",
+            "No aproveitamento dos tempos livres",
+            "Todas as opções estão corretas"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "São Órgãos de Soberania:",
+          "questionType": "text",
+          "answers": [
+            "O Presidente da República, a Assembleia da República, o Primeiro-Ministro e os Tribunais",
+            "O Presidente da República, o Presidente da Assembleia da República, o Governo e os Tribunais",
+            "O Presidente da República, a Assembleia da República, o Governo e os Tribunais",
+            "O Presidente da República, o Presidente da Assembleia da República, o Primeiro-Ministro e os Tribunais"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "O mandato do Presidente da República tem a duração de:",
+          "questionType": "text",
+          "answers": [
+            "4 Anos e termina com a eleição do novo Presidente",
+            "4 Anos e termina com a posse do novo Presidente",
+            "5 Anos e termina com a posse do novo Presidente",
+            "5 Anos e termina com a eleição do novo Presidente"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "O Governo é constituído pelo:",
+          "questionType": "text",
+          "answers": [
+            "Primeiro-Ministro, pelos Ministros e pelos Secretários e Subsecretários de Estado",
+            "Primeiro-Ministro, pelos Ministros, pelos Secretários de Estado e pelos Deputados",
+            "Presidente da Assembleia da República, pelo Primeiro-Ministro, pelos Ministros e pelos Secretários de Estado",
+            "Presidente da Assembleia da República, pelo Primeiro-Ministro, pelos Ministros, pelos Secretários de Estado e pelos Deputados"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Os tribunais são os órgãos de soberania com competência para:",
+          "questionType": "text",
+          "answers": [
+            "Administrar a verdade em nome do povo",
+            "Administrar a verdade em nome do Governo",
+            "Administrar a justiça em nome do povo",
+            "Administrar a justiça em nome do Governo"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Além do Tribunal Constitucional, existem as seguintes categorias de tribunais:",
+          "questionType": "text",
+          "answers": [
+            "O Supremo Tribunal de Justiça e os tribunais judiciais de primeira e de segunda instância",
+            "O Supremo Tribunal Administrativo e os demais tribunais administrativos e fiscais",
+            "O Tribunal de Contas",
+            "Todas as opções estão corretas"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "As medidas de Polícia são:",
+          "questionType": "text",
+          "answers": [
+            "As previstas na lei, devendo ser utilizadas para além do estritamente necessário",
+            "As previstas nos bons costumes, não devendo ser utilizadas para além do estritamente necessário",
+            "As previstas na Constituição, não devendo ser utilizadas para além do estritamente necessário",
+            "As previstas na lei, não devendo ser utilizadas para além do estritamente necessário"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Todos os seres humanos nascem:",
+          "questionType": "text",
+          "answers": [
+            "Livres e iguais nos seus deveres",
+            "Livres e iguais em dignidade e em direitos",
+            "Livres e iguais em dignidade e com alguns direitos",
+            "Livres e iguais apenas em dignidade"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Todos os indivíduos têm direito:",
+          "questionType": "text",
+          "answers": [
+            "Ao reconhecimento junto da sua Comunidade da sua personalidade jurídica",
+            "Ao reconhecimento por parte do Governo da sua personalidade jurídica",
+            "Ao reconhecimento em todos os lugares da sua personalidade jurídica",
+            "Ao reconhecimento perante os Tribunais da sua personalidade jurídica"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Ninguém pode ser arbitrariamente:",
+          "questionType": "text",
+          "answers": [
+            "Preso",
+            "Detido",
+            "Exilado",
+            "Todas as opções estão corretas"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Toda a pessoa tem o direito de:",
+          "questionType": "text",
+          "answers": [
+            "Livremente circular e escolher a sua residência no interior de um Estado",
+            "Livremente circular e escolher a sua residência em qualquer local",
+            "Circular com a condicionante imposta por cada Estado e aí escolher a sua residência",
+            "Com exceção dos criminosos, livremente circular e escolher a sua residência no interior de um Estado"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Toda a pessoa, individual ou coletivamente:",
+          "questionType": "text",
+          "answers": [
+            "Tem direito ao respeito",
+            "Tem direito a uma casa",
+            "Tem direito à propriedade",
+            "Tem direito de pronúncia"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Nos termos do Artigo 5.º da Declaração Universal dos Direitos Humanos",
+          "questionType": "text",
+          "answers": [
+            "Apenas em caso de terrorismo os cidadãos poderão ser submetidos a tortura e a penas ou tratamentos cruéis, desumanos ou degradantes",
+            "Qualquer cidadão poderá ser submetido a tortura nos casos de criminalidade violenta ou altamente organizada com o único objetivo de obter prova",
+            "Ninguém será submetido a tortura nem a penas ou tratamentos cruéis, desumanos ou degradantes",
+            "Apenas em caso de terrorismo os cidadãos poderão ser submetidos a tortura mas não a penas ou tratamentos cruéis, desumanos ou degradantes"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "A Declaração Universal dos Direitos Humanos prevê que \"toda pessoa vítima de perseguição tem o direito de procurar e de gozar asilo em outros países.\" A exceção a esse direito, também descrita no documento, ocorre quando",
+          "questionType": "text",
+          "answers": [
+            "A perseguição tiver caráter político ou partidário",
+            "O indivíduo solicitar asilo em país em conflito como o de origem",
+            "A pessoa tiver participado ou incitado manifestações públicas",
+            "A perseguição for legitimamente motivada por crimes de direito comum"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Segundo o artigo 30.º da DUDH:",
+          "questionType": "text",
+          "answers": [
+            "Nenhuma disposição da presente Declaração pode ser interpretada de maneira a envolver para qualquer Estado, agrupamento ou indivíduo o direito de se entregar a alguma atividade ou de praticar algum ato destinado a destruir os direitos e liberdades aqui enunciados",
+            "Com exceção das disposições inerentes ao direito à vida, à liberdade e à segurança pessoal, nenhuma outra disposição da Declaração pode ser interpretada de maneira a envolver para qualquer Estado, agrupamento ou indivíduo o direito de se entregar a alguma atividade ou de praticar algum ato destinado a destruir os direitos e liberdades aqui enunciados",
+            "Qualquer disposição da presente Declaração deve ser interpretada de maneira a envolver para qualquer Estado, agrupamento ou indivíduo o direito de se entregar a alguma atividade ou de praticar algum ato destinado a destruir os direitos e liberdades aqui enunciados",
+            "Apenas algumas disposições da presente Declaração podem ser interpretadas de maneira a envolver para qualquer Estado, agrupamento ou indivíduo o direito de se entregar a alguma atividade ou de praticar algum ato destinado a destruir os direitos e liberdades aqui enunciados"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "A Polícia de Segurança Pública (PSP) depende do membro do Governo responsável pela",
+          "questionType": "text",
+          "answers": [
+            "área da administração pública",
+            "área da justiça",
+            "área da administração interna",
+            "área da defesa nacional"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Segundo a Lei n.º 53/2007, de 31 de agosto, a Polícia de Segurança de Segurança Pública (PSP) define-se como",
+          "questionType": "text",
+          "answers": [
+            "um corpo superior de polícia criminal organizado hierarquicamente, dotado de autonomia administrativa",
+            "um corpo superior de polícia criminal organizado hierarquicamente, não dotado de autonomia administrativa",
+            "uma força de segurança de natureza militar, constituída por militares organizados num corpo especial de tropas e dotada de autonomia administrativa",
+            "uma força de segurança, uniformizada e armada, com natureza de serviço público e dotada de autonomia administrativa"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "De acordo com a Lei Orgânica em vigor, constituem atribuições da Polícia de Segurança Pública (PSP)",
+          "questionType": "text",
+          "answers": [
+            "garantir a ordem e a tranquilidade públicas e a segurança e a proteção das pessoas e dos bens, apenas quando for solicitada a sua intervenção",
+            "prevenir a criminalidade em geral e coordenar as demais forças e serviços de segurança",
+            "garantir a ordem e a tranquilidade públicas e a segurança e a proteção das pessoas e dos bens",
+            "dirimir conflitos de natureza privada"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Nos termos do artigo 9.º da Lei Orgânica da PSP (Lei n.º 53/2017, de 31 de agosto), considera-se uma força pública",
+          "questionType": "text",
+          "answers": [
+            "o efetivo mínimo de um agente em missão de serviço",
+            "o efetivo mínimo de um agente, mesmo fora de serviço",
+            "o efetivo mínimo de dois agentes em missão de serviço",
+            "o efetivo mínimo de dois agentes, mesmo fora de serviço"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Em situações de normalidade institucional a PSP tem por missão:",
+          "questionType": "text",
+          "answers": [
+            "Assegurar a legalidade democrática, garantir a segurança interna e os direitos dos cidadãos, nos termos da Constituição e da lei",
+            "Assegurar a legalidade democrática, garantir a segurança interna, garantir a segurança externa e os direitos dos cidadãos portugueses apenas, nos termos da Constituição e da lei",
+            "Assegurar a legalidade democrática, garantir a segurança interna, garantir a segurança externa e os direitos dos cidadãos, nos termos da Constituição",
+            "Assegurar a legalidade democrática, garantir a segurança interna, garantir a segurança externa, os direitos dos cidadãos portugueses, nos termos da Constituição e da lei"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Atualmente a Polícia de Segurança Pública possui a seguinte estrutura:",
+          "questionType": "text",
+          "answers": [
+            "Estado-Maior, unidades de polícia e estabelecimentos de ensino policial",
+            "Direção Nacional, unidades de polícia e estabelecimentos de ensino policial",
+            "Comando Geral, comandos metropolitanos e estabelecimentos de ensino policial",
+            "Comando Geral, comandos distritais e estabelecimentos de ensino policial"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "As subunidades dos comandos territoriais de Polícia da PSP são:",
+          "questionType": "text",
+          "answers": [
+            "O comando, a divisão policial e a esquadra",
+            "A divisão policial e a esquadra",
+            "O destacamento e a esquadra",
+            "A esquadra e o posto"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "A Unidade Especial de Polícia (UEP) compreende as seguintes subunidades operacionais:",
+          "questionType": "text",
+          "answers": [
+            "A Equipa de Intervenção Rápida, o Grupo de Operações Especiais, o Corpo de Segurança Pessoal, o Centro de Inativação de Explosivos e Segurança em Subsolo e o Grupo Operacional Cinotécnico",
+            "O Corpo de Intervenção, o Grupo de Operações Especiais, o Corpo de Segurança Pessoal, o Centro de Inativação de Explosivos e Segurança em Subsolo e o Grupo Operacional Cinotécnico",
+            "O Corpo de Intervenção, o Grupo de Operações Especiais, a Segurança Privada, o Centro de Inativação de Explosivos e Segurança em Subsolo e o Grupo Operacional Cinotécnico",
+            "O Corpo de Intervenção, o Grupo de Operações Especiais, o Corpo de Segurança Privada, o Centro de Minas e Armadilhas e o Grupo Operacional Cinotécnico"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "A PSP pode efetuar serviços especiais:",
+          "questionType": "text",
+          "answers": [
+            "Mediante solicitação, que, após serem autorizados pela entidade competente, são remunerados pela PSP, nos termos que forem regulamentados",
+            "Não podendo o pessoal da PSP ser nomeado em comissão de serviço para organismos internacionais ou países estrangeiros",
+            "Podendo manter pessoal com funções policiais em organismos de interesse público, em condições definidas por portaria do ministro da tutela. O pessoal nestas condições deixa de cumprir, para efeitos de ordem pública, as diretivas do comando com jurisdição na respetiva área",
+            "Mediante solicitação, que, após serem autorizados pela entidade competente, são remunerados pelos respetivos requisitantes nos termos que forem regulamentados"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "A Escola Prática de Polícia (EPP) é um estabelecimento de ensino policial, na dependência do diretor nacional, que tem por missão ministrar cursos e estágios de formação, aperfeiçoamento e atualização a:",
+          "questionType": "text",
+          "answers": [
+            "A Oficiais, Agentes e Chefes, promovendo o seu aperfeiçoamento permanente e realizar, coordenar ou colaborar em projetos de investigação e desenvolvimento no domínio das ciências policiais",
+            "Agentes e Chefes, e de especialização para todo o pessoal da PSP: C. A Oficiais de polícia, e de especialização para todo o pessoal da PSP no domínio das ciências policiais",
+            "A Oficiais de polícia, e de especialização para todo o pessoal da PSP no domínio das ciências policiais",
+            "A Agentes, e de especialização para todo o pessoal da PSP e Chefes, promovendo o seu aperfeiçoamento permanente e realizar, coordenar ou colaborar em projetos de investigação e desenvolvimento no domínio das ciências policiais"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "O artigo 7.o do Estatuto da PSP (Decreto-Lei n.º 243/2015, de 19 de outubro) prevê que os policiais estão sujeitos a um regime de continências e honras policiais próprio aprovado por portaria do ministro da tutela. É também definido neste artigo que as normas relativas a ordem unida, apresentação e aprumo são aprovadas por despacho",
+          "questionType": "text",
+          "answers": [
+            "do ministro da defesa",
+            "do ministro da administração interna",
+            "do diretor nacional",
+            "dos diretores nacionais-adjuntos"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "O Artigo 10.o do Estatuto da PSP (Decreto-Lei n.º 243/2015, de 19 de outubro) estabelece deveres profissionais que norteiam a ação do pessoal com funções policiais da PSP, prevendo que",
+          "questionType": "text",
+          "answers": [
+            "os policiais não podem fazer declarações que afetem a subordinação da PSP à legalidade democrática, a dependência da instituição perante os órgãos do Governo, a sua isenção política e partidária, a coesão e o prestígio da instituição, ou que violem os princípios da hierarquia de comando e da disciplina, não sendo extensivo a declarações ou comentários públicos sobre matérias ou procedimentos operacionais da PSP",
+            "os policiais não podem fazer declarações que afetem a subordinação da PSP à legalidade democrática, a dependência da instituição perante os órgãos do Governo, a sua isenção política e partidária, a coesão e o prestígio da instituição, ou que violem os princípios da hierarquia de comando e da disciplina, sendo extensivo a declarações ou comentários públicos sobre matérias ou procedimentos operacionais da PSP",
+            "os policiais podem fazer declarações que afetem a subordinação da PSP à legalidade democrática, a dependência da instituição perante os órgãos do Governo, a sua isenção política e partidária, a coesão e o prestígio da instituição, ou que violem os princípios da hierarquia de comando e da disciplina, não sendo extensivo a declarações ou comentários públicos sobre matérias ou procedimentos operacionais da PSP",
+            "os policiais podem fazer declarações que afetem a subordinação da PSP à legalidade democrática, a dependência da instituição perante os órgãos do Governo, a sua isenção política e partidária, a coesão e o prestígio da instituição, ou que violem os princípios da hierarquia de comando e da disciplina, sendo extensivo a declarações ou comentários públicos sobre matérias ou procedimentos operacionais da PSP"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Em conformidade com o Estatuto da PSP em vigência, recai sobre o pessoal com funções policiais da PSP o dever de disponibilidade, o que implica que",
+          "questionType": "text",
+          "answers": [
+            "os policiais devem manter permanente disponibilidade para o serviço, ainda que com sacrifício dos interesses pessoais",
+            "os policiais devem manter permanente disponibilidade para o serviço, desde que não implique sacrifício dos interesses pessoais",
+            "os policiais devem cumprir unicamente o horário de serviço para qual se encontram devidamente escalados",
+            "nenhuma afirmação anterior está correta"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "O Estatuto da PSP estabelece que os policiais têm direito ao uso e porte de arma e munições de qualquer tipo",
+          "questionType": "text",
+          "answers": [
+            "desde que distribuídas pelo Estado, e estão sujeitos a um plano de formação e de certificação constituído por prova teórica e prática de tiro",
+            "desde que distribuídas pelo Estado, ficando o treino de tiro à responsabilidade dos mesmos a efetuar em clubes de tiro certificados",
+            "desde que adquiridas pelos próprios, ficando o treino de tiro à responsabilidade dos mesmos a efetuar em clubes de tiro certificados",
+            "nenhuma das afirmações anteriores está correta"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Atualmente a carreira de agente de polícia da PSP compreende as categorias:",
+          "questionType": "text",
+          "answers": [
+            "De agente principal e de agente",
+            "De agente principal, de agente e de guarda",
+            "De agente coordenador, de agente principal e de agente",
+            "De agente ajudante e de agente"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Nos termos do Estatuto da PSP, os despachos de promoção dos policiais são da competência do membro do Governo responsável pela área",
+          "questionType": "text",
+          "answers": [
+            "das finanças",
+            "da economia",
+            "da administração interna",
+            "da defesa"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Em termos de formação policial, os elementos com funções policiais são obrigados a frequentar, anualmente, no mínimo",
+          "questionType": "text",
+          "answers": [
+            "1 hora de formação policial ou de outras formações não reconhecidas como de interesse para as competências da PSP",
+            "15 horas de formação policial ou de outras formações reconhecidas como de interesse para as competências da PSP",
+            "90 horas de formação policial ou de outras formações reconhecidas como de interesse para as competências da PSP",
+            "nenhuma das afirmações anteriores está correta"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Estatuto da PSP em vigor estabelece os limites máximos de idade para passagem à situação de pré-aposentação para os elementos com funções policiais, encontrando-se assim definidos",
+          "questionType": "text",
+          "answers": [
+            "55 anos para todas as carreiras",
+            "62 anos para a categoria de superintendente-chefe e 60 anos para as restantes categorias e carreiras",
+            "65 anos para todas as carreiras",
+            "70 anos para todas as carreiras"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "No Parlamento Europeu, o número de deputados por país é, aproximadamente, proporcional",
+          "questionType": "text",
+          "answers": [
+            "à área geográfica de cada país",
+            "ao PIB (produto interno bruto) de cada país",
+            "à população de cada país",
+            "à antiguidade de cada país na União Europeia"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Dos países assinalados, qual faz parte da União Europeia?",
+          "questionType": "text",
+          "answers": [
+            "Suíça",
+            "Malta",
+            "Reino Unido",
+            "Turquia"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Os seis (6) países fundadores da atual União Europeia são",
+          "questionType": "text",
+          "answers": [
+            "Alemanha, Bélgica, França, Itália, Luxemburgo e Países Baixos",
+            "Alemanha, Bélgica, França, Luxemburgo, Países Baixos e Espanha",
+            "Alemanha, Bélgica, Luxemburgo, Países Baixos, Espanha e Portugal",
+            "Alemanha, Bélgica, Luxemburgo, Países Baixos, Itália"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        }
+
+      ]
+    }

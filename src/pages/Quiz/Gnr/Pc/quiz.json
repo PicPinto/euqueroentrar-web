@@ -1,0 +1,222 @@
+{
+    "quizTitle": "Declaração Universal dos Direitos Humanos",
+    "quizSynopsis": "Teste seus conhecimentos sobre a Declaração Universal dos Direitos Humanos.",
+    "questions": [
+      {
+        "question": "Nos termos do artigo 14º da DUDH todo ser humano, vítima de perseguição, tem o direito de procurar e de gozar de asilo em outros países, exceto por crimes",
+        "questionType": "text",
+        "answers": [
+          "De direito comum ou por todos os atos contrários aos objetivos e princípios das Nações Unidas.",
+          "Políticos",
+          "Cometidos contra Estados ditatoriais com o fim de os derrubar",
+          "De direito comum ou por atos segundo os objetivos e princípios das Nações Unidas"
+        ],
+        "correctAnswer": "1",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Nos termos do artigo 23º da DUDH todo ser humano que trabalha tem direito",
+        "questionType": "text",
+        "answers": [
+          "A uma remuneração justa e satisfatória que lhe assegure, assim como à sua família, uma existência compatível com a sua condição social",
+          "A uma remuneração justa e satisfatória que lhe assegure, assim como à sua família uma existência que lhe permita no mínimo alimentar-se",
+          "A uma remuneração justa e satisfatória que lhe assegure, assim como à sua família, uma existência compatível com os padrões sociais mais elevados da sociedade",
+          "A uma remuneração justa e satisfatória que lhe assegure, assim como à sua família, uma existência compatível com a dignidade humana"
+        ],
+        "correctAnswer": "4",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Podemos considerar antecessor da DUDH o cilindro",
+        "questionType": "text",
+        "answers": [
+          "De Ciro",
+          "Do imperador César Augustus",
+          "Do imperador Napoleão Bonaparte",
+          "De Viriato da Lusitânia"
+        ],
+        "correctAnswer": "1",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "A Declaração Universal dos Direitos Humanos (DUDH) foi proclamada pela Assembleia Geral das Nações Unidas em:",
+        "questionType": "text",
+        "answers": [
+          "Paris",
+          "Nova Iorque",
+          "Londres",
+          "Lisboa"
+        ],
+        "correctAnswer": "1",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "A Declaração Universal dos Direitos Humanos (DUDH) foi proclamada pela Assembleia Geral das Nações Unidas em:",
+        "questionType": "text",
+        "answers": [
+          "10 de Dezembro de 1948",
+          "10 de Dezembro de 1958",
+          "10 de Dezembro de 1968",
+          "10 de Outubro de 1948"
+        ],
+        "correctAnswer": "1",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Declaração Universal dos Direitos Humanos (DUDH) das Nações Unidas foi proclamada:",
+        "questionType": "text",
+        "answers": [
+          "Na sequência das experiências catastróficas da primeira Guerra Mundial",
+          "Na sequência das experiências tenebrosas do Holocausto e da segunda Guerra Mundial",
+          "Na sequência da guerra dos 100 anos",
+          "Na sequência do armistício que pôs fim à primeira Grande Guerra"
+        ],
+        "correctAnswer": "2",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Os direitos ínsitos na Declaração Universal dos Direitos Humanos (DUDH) são:",
+        "questionType": "text",
+        "answers": [
+          "Regionais e divisíveis",
+          "Universais e divisíveis",
+          "Universais e indivisíveis",
+          "Universais e transmissíveis"
+        ],
+        "correctAnswer": "3",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "A Declaração Universal dos Direitos Humanos (DUDH) foi proclamada:",
+        "questionType": "text",
+        "answers": [
+          "Pelo Conselho Permanente da Nações Unidas",
+          "Pelo Comitê Permanente de Prevenção Contra a Tortura das Nações Unidas",
+          "Pela Assembleia Geral das Nações Unidas",
+          "Pelo Secretário-geral das Nações Unidas"
+        ],
+        "correctAnswer": "3",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Todos os seres humanos nascem:",
+        "questionType": "text",
+        "answers": [
+          "Livres e iguais nos seus deveres",
+          "Livres e iguais em dignidade e em direitos",
+          "Livres e iguais em dignidade e com alguns direitos",
+          "Livres e iguais apenas em dignidade"
+        ],
+        "correctAnswer": "2",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Todos os indivíduos têm direito",
+        "questionType": "text",
+        "answers": [
+          "Ao reconhecimento junto da sua Comunidade da sua personalidade jurídica",
+          "Ao reconhecimento por parte do Governo da sua personalidade jurídica",
+          "Ao reconhecimento em todos os lugares da sua personalidade jurídica",
+          "Ao reconhecimento perante os Tribunais da sua personalidade jurídica"
+        ],
+        "correctAnswer": "3",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Ninguém pode ser arbitrariamente:",
+        "questionType": "text",
+        "answers": [
+          "Preso",
+          "Detido",
+          "Exilado",
+          "Todas as opções estão corretas"
+        ],
+        "correctAnswer": "4",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Toda a pessoa tem o direito de:",
+        "questionType": "text",
+        "answers": [
+          "Livremente circular e escolher a sua residência no interior de um Estado",
+          "Livremente circular e escolher a sua residência em qualquer local",
+          "Circular com a condicionante imposta por cada Estado e aí escolher a sua residência",
+          "Com exceção dos criminosos, livremente circular e escolher a sua residência no interior de um Estado"
+        ],
+        "correctAnswer": "1",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Toda a pessoa, individual ou coletivamente:",
+        "questionType": "text",
+        "answers": [
+          "Tem direito ao respeito",
+          "Tem direito a uma casa",
+          "Tem direito à propriedade",
+          "Tem direito de pronúncia"
+        ],
+        "correctAnswer": "3",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Nos termos do Artigo 5º da Declaração Universal dos Direitos Humanos",
+        "questionType": "text",
+        "answers": [
+          "apenas em caso de terrorismo os cidadãos poderão ser submetidos a tortura e a penas ou tratamentos cruéis, desumanos ou degradantes",
+          "qualquer cidadão poderá ser submetido a tortura nos casos de criminalidade violenta ou altamente organizada com o único objetivo de obter prova",
+          "ninguém será submetido a tortura nem a penas ou tratamentos cruéis, desumanos ou degradantes",
+          "apenas em caso de terrorismo os cidadãos poderão ser submetidos a tortura mas não a penas ou tratamentos cruéis, desumanos ou degradantes"
+        ],
+        "correctAnswer": "3",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Todos os seres humanos nascem livres e com os mesmos direitos",
+        "questionType": "text",
+        "answers": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "correctAnswer": "1",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Toda a gente tem direito, à vida, à liberdade e à segurança pessoal",
+        "questionType": "text",
+        "answers": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "correctAnswer": "1",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      },
+      {
+        "question": "Toda a gente tem o direito de ir para o tribunal se os seus direitos não forem respeitados",
+        "questionType": "text",
+        "answers": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "correctAnswer": "1",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForIncorrectAnswer": "Resposta Errada :("
+      }
+    ]
+  }
+  

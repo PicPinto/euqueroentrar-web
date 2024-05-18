@@ -1,0 +1,872 @@
+
+{
+  "appLocale": {
+    "landingHeaderText": "<questionLength> Questões",
+    "question": "Questão",
+    "startQuizBtn": "Começar",
+    "resultFilterAll": "Todos",
+    "resultFilterCorrect": "Correcto",
+    "resultFilterIncorrect": "Incorrecto",
+    "prevQuestionBtn": "Anterior",
+    "nextQuestionBtn": "Proximo",
+    "resultPagePoint": "Pontuação: <correctPoints> de <totalPoints>.",
+    "resultPageHeaderText": "Quiz completo! Alcançaste <correctIndexLength> pontos em <questionLength> questões.",
+    "marksOfQuestion":"(<marks> pontos)",
+    "singleSelectionTagText": "Resposta única",
+    "pickNumberOfSelection": "Selecione <numberOfSelection> questão"
+    },
+
+    "quizTitle": "Constituição da República Portuguesa",
+    "quizSynopsis": "Testa os teus conhecimentos sobre a Constituição da República Portuguesa.",
+    "questions": [
+      {
+        "question": "O mandato do Presidente da República tem a duração de quantos anos?",
+        "questionType": "text",
+        "answers": [
+          "4",
+          "5",
+          "6",
+          "8"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "São elegíveis os cidadãos eleitores para Presidente da república, portugueses de origem, a partir de que idade?",
+        "questionType": "text",
+        "answers": [
+          "Maior que 33",
+          "Maior que 34",
+          "Maior que 35",
+          "Maior que 36"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Quantos mandatos consecutivos pode exercer o Presidente da República?",
+        "questionType": "text",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "Sem limite"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Quais são os atos legislativos existentes?",
+        "questionType": "text",
+        "answers": [
+          "as leis, os decretos-leis e os decretos legislativos regionais",
+          "as leis, os decretos-leis",
+          "as leis, regulamentos e decretos legislativos regionais",
+          "as leis, os decretos-leis, regulamentos e decretos legislativos regionais"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Qual o número mínimo de deputados na AR?",
+        "questionType": "text",
+        "answers": [
+          "160",
+          "170",
+          "180",
+          "190"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Qual o número máximo de deputados na AR?",
+        "questionType": "text",
+        "answers": [
+          "210",
+          "220",
+          "230",
+          "240"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "O Conselho de Ministros é constituído por:",
+        "questionType": "text",
+        "answers": [
+          "Primeiro-Ministro, pelos Vice-Primeiros-Ministros, Secretários e Subsecretários de Estado.",
+          "Primeiro-Ministro e pelos Ministros.",
+          "Primeiro-Ministro, pelos Vice-Primeiros-Ministros, se os houver, e pelos Ministros.",
+          "Primeiro-Ministro, Secretários e Subsecretários de Estado."
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "O Governo é responsável perante quem?",
+        "questionType": "text",
+        "answers": [
+          "Presidente da República, Tribunais e a Assembleia da República",
+          "Assembleia da República",
+          "Presidente da República, Tribunais",
+          "Presidente da República e a Assembleia da República"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Qual é o órgão de condução da política geral do país e o órgão superior da administração pública?",
+        "questionType": "text",
+        "answers": [
+          "Presidente da República",
+          "Assembleia da República",
+          "Governo",
+          "Tribunais"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Qual o órgão superior do Ministério Público?",
+        "questionType": "text",
+        "answers": [
+          "Presidente da República",
+          "PGR (Procuradoria Geral da República)",
+          "Assembleia da República",
+          "Governo"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "No continente quais são as autarquias locais?",
+        "questionType": "text",
+        "answers": [
+          "Freguesias, os municípios e as regiões administrativas",
+          "Freguesias e os municípios",
+          "Municípios e as regiões administrativas",
+          "Freguesias e as regiões administrativas"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Quem tem o poder de vetar?",
+        "questionType": "text",
+        "answers": [
+          "Assembleia da República",
+          "Governo",
+          "Primeiro Ministro",
+          "Presidente da República"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A câmara municipal é o órgão executivo colegial do freguesia.",
+        "questionType": "text",
+        "answers": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Cessa o dever de obediência sempre que o cumprimento das ordens ou instruções implique a prática de qualquer crime.",
+        "questionType": "text",
+        "answers": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "A câmara municipal é:",
+        "questionType": "text",
+        "answers": [
+          "O edifício do município",
+          "O órgão executivo colegial do município",
+          "O órgão executivo colegial do município e assembleia municipal",
+          "O órgão municipal do concelho"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Os partidos políticos concorrem para a organização e para a expressão da vontade popular, no respeito pelos princípios da independência nacional:",
+        "questionType": "text",
+        "answers": [
+          "Da unidade do Estado e da democracia política",
+          "Da unidade do Estado e dos interesses dos partidos políticos",
+          "Da democracia política e nos interesses dos partidos políticos e dos sindicatos",
+          "Da unidade do Estado, da democracia política e no interesse dos partidos políticos e da associação nacional de municípios"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Em Portugal os Órgãos de Soberania são:",
+        "questionType": "text",
+        "answers": [
+          "A Assembleia da República, o Governo e os Tribunais",
+          "O Presidente da República, a Assembleia da República, o Governo e os Tribunais",
+          "O Presidente da República e a Assembleia da República",
+          "A Assembleia da República"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "O Órgão de Soberania que garante a independência nacional e a unidade do Estado é o Presidente da República?",
+        "questionType": "text",
+        "answers": [
+          "Não, é o Governo",
+          "É o Presidente da República e a Assembleia da República",
+          "Sim, e representa a República Portuguesa",
+          "A Assembleia da República"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "O Órgão de Soberania que assegura a condução da política geral do país é:",
+        "questionType": "text",
+        "answers": [
+          "Assembleia da República",
+          "O Governo",
+          "Os órgãos de soberania em conjunto",
+          "Os deputados"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "O Presidente da República é o Comandante Geral das Forças Armadas?",
+        "questionType": "text",
+        "answers": [
+          "Sim, o Presidente da República é por inerência o Comandante Geral das Forças Armadas",
+          "Não, é o Ministro da Defesa",
+          "Sim, com a concordância dos Tribunais",
+          "Não, é o Ministro da Administração Interna"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "A Assembleia da República tem função legislativa?",
+        "questionType": "text",
+        "answers": [
+          "Não, são os Tribunais",
+          "Sim, é o órgão legislativo por excelência",
+          "Assembleia da República e os Tribunais",
+          "Não, é o órgão executivo"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Os direitos dos cidadãos são assegurados:",
+        "questionType": "text",
+        "answers": [
+          "Pela Assembleia da República e pelos Tribunais",
+          "Pelos os Tribunais",
+          "Pelo Governo",
+          "Pelos órgãos de soberania"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "O órgão de Soberania que garante o regular funcionamento das instituições democráticas é:",
+        "questionType": "text",
+        "answers": [
+          "A Assembleia da República",
+          "O Presidente da República",
+          "O Governo e a Assembleia da República",
+          "Os tribunais"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Os Órgãos de Soberania desempenham as suas funções de uma forma autónoma, não existindo entre eles vínculos hierárquicos?",
+        "questionType": "text",
+        "answers": [
+          "Depende apenas do Presidente da República",
+          "Não! Existem entre eles vínculos hierárquicos",
+          "Sim, é o princípio da separação dos poderes",
+          "Depende dos tribunais"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Os órgãos de Soberania que reprimem a violação da legalidade democrática são:",
+        "questionType": "text",
+        "answers": [
+          "Os Tribunais e o a Assembleia da Republica",
+          "Os Tribunais e o Presidente da República",
+          "Os Tribunais",
+          "A assembleia da República"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "A bandeira nacional, símbolo da soberania nacional, foi instaurada:",
+        "questionType": "text",
+        "answers": [
+          "Pela Revolução de 5 de outubro de 1974",
+          "Pela Revolução de 5 de outubro de 1910",
+          "Pela Revolução do 25 de abril de 1974",
+          "Pelo Conselho da Revolução em 1975"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Quem pode ter a iniciativa de revisão constitucional?",
+        "questionType": "text",
+        "answers": [
+          "Povo",
+          "Presidente da república",
+          "Deputados",
+          "Ministros"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "O que é um Habeas Corpus?",
+        "questionType": "text",
+        "answers": [
+          "Pedido de indemnização por danos sofridos injustamente",
+          "Pedido de prisão preventiva",
+          "Pedido de reposição da garantia constitucional de liberdade",
+          "Pedido de direitos"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Quem representa a República Portuguesa?",
+        "questionType": "text",
+        "answers": [
+          "O presidente da República",
+          "O presidente da assembleia da República",
+          "Presidente do Tribunal Constitucional",
+          "Primeiro-Ministro"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Por quantos juízes é composto o Tribunal Constitucional?",
+        "questionType": "text",
+        "answers": [
+          "10",
+          "6",
+          "13",
+          "14"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Quantos Representantes da República tem cada região autónoma?",
+        "questionType": "text",
+        "answers": [
+          "2",
+          "3",
+          "4",
+          "1"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Uma sessão legislativa tem a duração de:",
+        "questionType": "text",
+        "answers": [
+          "1 ano",
+          "1 ano e meio",
+          "2 anos",
+          "3 anos"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "A Constituição da República Portuguesa pode ser revista, quantos anos após a data da publicação da última lei de revisão ordinária?",
+        "questionType": "text",
+        "answers": [
+          "2 anos",
+          "3 anos",
+          "4 anos",
+          "5 anos"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "O conselho das forças armadas é presidido pelo:",
+        "questionType": "text",
+        "answers": [
+          "Presidente da República e com membros eleitos pela Assembleia da república",
+          "Ministro da defesa",
+          "Ministro da administração Interna",
+          "Pelo Governo"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Em relação à soberania e legalidade:",
+        "questionType": "text",
+        "answers": [
+          "A soberania, una e indivisível, reside no povo, que a exerce segundo as formas previstas na Constituição",
+          "O Estado subordina-se à Constituição e funda-se na legalidade democrática",
+          "A validade das leis e dos demais actos do Estado, das regiões autónomas, do poder local e de quaisquer outras entidades públicas depende da sua conformidade com a Constituição",
+          "Todas as respostas anteriores estão corretas"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Qual/quais o(s) símbolo(s) da soberania Portuguesa?",
+        "questionType": "text",
+        "answers": [
+          "Bandeira nacional e o hino",
+          "O hino",
+          "A bandeira nacional",
+          "Nenhuma resposta anterior está correta"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Há a suspensão dos direitos dos cidadãos quando:",
+        "questionType": "text",
+        "answers": [
+          "Os órgãos de soberania assim o declararem",
+          "Quando altera o estado de emergência",
+          "Quando o primeiro-ministro assim o entender",
+          "Quando o cidadão não o merecer"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "A prisão preventiva será submetida, no prazo máximo de:",
+        "questionType": "text",
+        "answers": [
+          "48 horas",
+          "24 horas",
+          "72 horas",
+          "96 horas"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Quais são os órgãos de soberania da República Portuguesa?",
+        "questionType": "text",
+        "answers": [
+          "O Presidente da República, a Assembleia da República e o Governo",
+          "O Presidente da República, a Assembleia da República, o Governo e os Deputados",
+          "O Presidente da República, a Assembleia da República, o Governo e as Comissões",
+          "O Presidente da República, a Assembleia da República, o Governo e os Tribunais"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Os Deputados não respondem",
+        "questionType": "text",
+        "answers": [
+          "criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções",
+          "disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções",
+          "civil, criminal, contraordenacional ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções",
+          "civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "O Conselho de Ministros é constituído",
+        "questionType": "text",
+        "answers": [
+          "pelo Primeiro-Ministro, pelos Vice-Primeiros-Ministros, se os houver, e pelos Ministros",
+          "pelo Primeiro-Ministro, pelos Ministros e Secretários de Estado",
+          "pelo Primeiro-Ministro e pelos Ministros",
+          "pelo Primeiro-Ministro, pelos Ministros, Secretários e Subsecretários de Estado"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Compete ao Governo, no exercício de funções legislativas",
+        "questionType": "text",
+        "answers": [
+          "fazer leis e decretos-lei em matérias não reservadas à Assembleia da República",
+          "fazer decretos-lei em matérias não reservadas à Assembleia da República e ao Governo",
+          "fazer regulamentos em matérias não reservadas à Assembleia da República",
+          "fazer decretos-lei em matérias não reservadas à Assembleia da República"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A câmara municipal é",
+        "questionType": "text",
+        "answers": [
+          "o edifício do município",
+          "o órgão executivo colegial do município",
+          "o órgão executivo colegial do município e assembleia municipal",
+          "o órgão municipal do concelho"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Portugal é uma República soberana",
+        "questionType": "text",
+        "answers": [
+          "baseada na vontade individual e empenhada na construção de uma sociedade livre e justa para a maioria da população",
+          "baseada na dignidade da pessoa humana e na vontade dos partidos políticos e associações sindicais e empenhada na construção de uma sociedade livre, justa e solidária",
+          "baseada na dignidade da pessoa humana e na vontade popular e empenhada na construção de uma sociedade livre, justa e solidária",
+          "baseada na dignidade da pessoa humana, na vontade dos deputados e dos representantes das associações sindicais e empenhada na construção de uma sociedade livre e solidária"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Os partidos políticos concorrem para a organização e para a expressão da vontade popular, no respeito pelos princípios da independência nacional",
+        "questionType": "text",
+        "answers": [
+          "da unidade do Estado e da democracia política",
+          "da unidade do Estado e dos interesses dos partidos políticos",
+          "da democracia política e nos interesses dos partidos políticos e dos sindicatos",
+          "da unidade do Estado, da democracia política e no interesse dos partidos políticos e da associação nacional de municípios"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Os filhos não podem ser separados dos pais, salvo quando estes não cumpram",
+        "questionType": "text",
+        "answers": [
+          "os seus deveres conjugais para com eles e sempre mediante decisão do conselho de família",
+          "os seus deveres fundamentais para com eles e sempre mediante decisão judicial",
+          "os seus deveres fundamentais para com eles e sempre mediante decisão favorável do conselho de família",
+          "os seus deveres fundamentais para com eles e sempre mediante decisão administrativa"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "A detenção será submetida, no prazo máximo de",
+        "questionType": "text",
+        "answers": [
+          "24 horas",
+          "48 horas",
+          "72 horas",
+          "8 horas"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Têm direito de sufrágio todos os cidadãos",
+        "questionType": "text",
+        "answers": [
+          "maiores de 21 anos",
+          "maiores de 14 anos",
+          "maiores de 16 anos",
+          "maiores de 18 anos"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A Assembleia Legislativa é eleita por",
+        "questionType": "text",
+        "answers": [
+          "sufrágio universal, indireto e secreto, de harmonia com o princípio da representação proporcional",
+          "sufrágio universal, direto e público, de harmonia com o princípio da representação proporcional",
+          "sufrágio universal, direto e secreto, de harmonia com o princípio da representação proporcional",
+          "sufrágio universal, indireto e público, de harmonia com o princípio da representação proporcional"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "A constituição da república portuguesa de 1976 (atual constituição portuguesa) foi redigida",
+        "questionType": "text",
+        "answers": [
+          "Pela assembleia constituinte nomeada",
+          "Por um comité de peritos",
+          "Pelo governo da república",
+          "Pela assembleia constituinte eleita"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A assembleia da república tem",
+        "questionType": "text",
+        "answers": [
+          "O mínimo de 200 e o máximo de 230 deputados, nos termos da lei eleitoral",
+          "O máximo de 250 deputados, nos termos da lei eleitoral",
+          "O mínimo de 180 e o máximo de 280 deputados, nos termos da lei eleitoral",
+          "O mínimo de 180 e o máximo de 230 deputados, nos termos da lei eleitoral"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A legislatura da assembleia da república tem duração de",
+        "questionType": "text",
+        "answers": [
+          "5 sessões legislativas",
+          "4 sessões legislativa",
+          "4 anos civis",
+          "5 anos civis"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Compete ao Governo, no exercício de funções legislativas",
+        "questionType": "text",
+        "answers": [
+          "fazer leis e decretos-lei em matérias não reservadas à Assembleia da República",
+          "fazer decretos-lei em matérias não reservadas à Assembleia da República e ao Governo",
+          "fazer regulamentos em matérias não reservadas à Assembleia da República",
+          "fazer decretos-lei em matérias não reservadas à Assembleia da República"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A câmara municipal é",
+        "questionType": "text",
+        "answers": [
+          "o edifício do município",
+          "o órgão executivo colegial do município",
+          "o órgão executivo colegial do município e assembleia municipal",
+          "o órgão municipal do concelho"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Portugal é uma República soberana",
+        "questionType": "text",
+        "answers": [
+          "baseada na vontade individual e empenhada na construção de uma sociedade livre e justa para a maioria da população",
+          "baseada na dignidade da pessoa humana e na vontade dos partidos políticos e associações sindicais e empenhada na construção de uma sociedade livre, justa e solidária",
+          "baseada na dignidade da pessoa humana e na vontade popular e empenhada na construção de uma sociedade livre, justa e solidária",
+          "baseada na dignidade da pessoa humana, na vontade dos deputados e dos representantes das associações sindicais e empenhada na construção de uma sociedade livre e solidária"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Os partidos políticos concorrem para a organização e para a expressão da vontade popular, no respeito pelos princípios da independência nacional",
+        "questionType": "text",
+        "answers": [
+          "da unidade do Estado e da democracia política",
+          "da unidade do Estado e dos interesses dos partidos políticos",
+          "da democracia política e nos interesses dos partidos políticos e dos sindicatos",
+          "da unidade do Estado, da democracia política e no interesse dos partidos políticos e da associação nacional de municípios"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Os filhos não podem ser separados dos pais, salvo quando estes não cumpram",
+        "questionType": "text",
+        "answers": [
+          "os seus deveres conjugais para com eles e sempre mediante decisão do conselho de família",
+          "os seus deveres fundamentais para com eles e sempre mediante decisão judicial",
+          "os seus deveres fundamentais para com eles e sempre mediante decisão favorável do conselho de família",
+          "os seus deveres fundamentais para com eles e sempre mediante decisão administrativa"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "A detenção será submetida, no prazo máximo de",
+        "questionType": "text",
+        "answers": [
+          "24 horas",
+          "48 horas",
+          "72 horas",
+          "8 horas"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Têm direito de sufrágio todos os cidadãos",
+        "questionType": "text",
+        "answers": [
+          "maiores de 21 anos",
+          "maiores de 14 anos",
+          "maiores de 16 anos",
+          "maiores de 18 anos"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A Assembleia Legislativa é eleita por",
+        "questionType": "text",
+        "answers": [
+          "sufrágio universal, indireto e secreto, de harmonia com o princípio da representação proporcional",
+          "sufrágio universal, direto e público, de harmonia com o princípio da representação proporcional",
+          "sufrágio universal, direto e secreto, de harmonia com o princípio da representação proporcional",
+          "sufrágio universal, indireto e público, de harmonia com o princípio da representação proporcional"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "A constituição da república portuguesa de 1976 (atual constituição portuguesa) foi redigida",
+        "questionType": "text",
+        "answers": [
+          "Pela assembleia constituinte nomeada",
+          "Por um comité de peritos",
+          "Pelo governo da república",
+          "Pela assembleia constituinte eleita"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A assembleia da república tem",
+        "questionType": "text",
+        "answers": [
+          "O mínimo de 200 e o máximo de 230 deputados, nos termos da lei eleitoral",
+          "O máximo de 250 deputados, nos termos da lei eleitoral",
+          "O mínimo de 180 e o máximo de 280 deputados, nos termos da lei eleitoral",
+          "O mínimo de 180 e o máximo de 230 deputados, nos termos da lei eleitoral"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A legislatura da assembleia da república tem duração de",
+        "questionType": "text",
+        "answers": [
+          "5 sessões legislativas",
+          "4 sessões legislativa",
+          "4 anos civis",
+          "5 anos civis"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "O governo é constituído",
+        "questionType": "text",
+        "answers": [
+          "Pelo primeiro-ministro, pelos ministros e pelos secretários e subsecretários de estado",
+          "Pelos ministros e pelos secretários e subsecretários de estado",
+          "Pelo primeiro ministro e pelos secretários e subsecretários de estado",
+          "Pelo primeiro ministro e subsecretários de estado"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "A interpretação dos preceitos constitucionais relativos aos direitos fundamentais deve ser feita",
+        "questionType": "text",
+        "answers": [
+          "De harmonia com os princípios gerais de direito",
+          "De harmonia com a Declaração Universal dos Direitos Humanos",
+          "De harmonia com a Declaração Europeia dos Direitos Humanos",
+          "De harmonia com a Convenção Europeia dos Direitos Humanos"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Os direitos, liberdades e garantias podem",
+        "questionType": "text",
+        "answers": [
+          "Ser objeto de restrição nos casos previstos na CRP e na Lei",
+          "Ser sempre objeto de restrição",
+          "Nunca podem ser objeto de restrição",
+          "Ser objeto de restrição mas apenas, para salvaguarda doutros direitos e deveres e nos casos em que a constituição o preveja"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Segundo a CRP, os Direitos Fundamentais são",
+        "questionType": "text",
+        "answers": [
+          "Aqueles que se encontram plasmados na CRP, os reconhecidos pelo Direito Internacional, bem como aqueles que se encontram em legislação ordinária",
+          "Aqueles que se encontram plasmados na CRP e na legislação ordinária",
+          "Aqueles que se encontram plasmados na CRP, na legislação extravagante e todos os reconhecidos pelo Direito Internacional Privado",
+          "Aqueles que foram convencionados pelo Estado Português e que tenham força de reserva de lei"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "O Princípio da Proporcionalidade ou da Proibição do Excesso tem como requisitos",
+        "questionType": "text",
+        "answers": [
+          "A necessidade, e a clareza das ações por parte dos Órgãos do Governo",
+          "A precisão e a determinabilidade das leis, quanto aos seus limites formais e materiais",
+          "Proporcionalidade quanto à Proteção da Confiança em sentido estrito, bem como a exigibilidade de uma atuação de acordo com a lei fundamental",
+          "A necessidade, exigibilidade; adequação e proporcionalidade"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A declaração do estado de sítio ou do estado de emergência terá que",
+        "questionType": "text",
+        "answers": [
+          "Ser fundamentada, especificar os Direitos Liberdades e Garantias que são suspensos, especificar o tempo de duração, que não poderá exceder 15 dias",
+          "Ser fundamentada, especificar os D.L.G. que são suspensos",
+          "Especificar o tempo de duração que não poderá exceder 15 dias",
+          "Ser publicada no Diário da República, especificar os D.L.G. que são suspensos, e a sua duração que não poderá exceder 15 dias"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Segundo a alínea a) do n.o 2 do artigo 64.o da CRP, o direito à proteção da saúde é realizado",
+        "questionType": "text",
+        "answers": [
+          "Através de um serviço nacional de saúde universal e geral e, tendo em conta as condições económicas e sociais dos cidadãos, gratuito",
+          "Através de um serviço nacional de saúde universal e geral e, tendo em conta as condições",
+          "Através de um serviço nacional de saúde local e restrito e, tendo em conta as condições económicas e sociais dos cidadãos, tendencialmente gratuito",
+          "Através de um serviço nacional de saúde local e restrito e, tendo em conta as condições económicas e sociais dos cidadãos, gratuito"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "A Constituição da República Portuguesa confere aos jovens o gozo de proteção especial para efetivação dos seus direitos económicos, sociais e culturais, nomeadamente",
+        "questionType": "text",
+        "answers": [
+          "No ensino, na formação profissional e na cultura",
+          "Na educação física e no desporto",
+          "No aproveitamento dos tempos livres",
+          "Todas as opções estão corretas"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      } 
+      ]
+    }
+         

@@ -1,0 +1,610 @@
+
+{
+  "appLocale": {
+    "landingHeaderText": "<questionLength> Questões",
+    "question": "Questão",
+    "startQuizBtn": "Começar",
+    "resultFilterAll": "Todos",
+    "resultFilterCorrect": "Correcto",
+    "resultFilterIncorrect": "Incorrecto",
+    "prevQuestionBtn": "Anterior",
+    "nextQuestionBtn": "Proximo",
+    "resultPagePoint": "Pontuação: <correctPoints> de <totalPoints>.",
+    "resultPageHeaderText": "Quiz completo! Alcançaste <correctIndexLength> pontos em <questionLength> questões.",
+    "marksOfQuestion":"(<marks> pontos)",
+    "singleSelectionTagText": "Resposta única",
+    "pickNumberOfSelection": "Selecione <numberOfSelection> questão"
+    },
+
+    "quizTitle": "Estatutos - PSP",
+    "quizSynopsis": "Testa os teus conhecimentos sobre os Estatutos da PSP",
+    "questions": [
+        {
+          "question": "A condição policial caracteriza-se:",
+          "questionType": "text",
+          "answers": [
+            "Pela sujeição a um regulamento estipulado pelo Ministério da Administração Interna",
+            "Pela subordinação à hierarquia de comando no Ministério",
+            "Pela subordinação ao interesse público",
+            "Pela subordinação ao interesse do Presidente da República"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Os polícias devem dedicar-se ao serviço com:",
+          "questionType": "text",
+          "answers": [
+            "Dedicação, zelo, competência, integridade de caráter e espírito de bem servir, utilizando e desenvolvendo de forma permanente a sua aptidão, competência e formação profissional",
+            "Aprumo, zelo, competência, integridade de caráter e espírito de bem servir, utilizando e desenvolvendo de forma permanente a sua aptidão, competência e formação profissional",
+            "Convicção, zelo, competência, integridade de caráter e espírito de bem servir, utilizando e desenvolvendo de forma permanente a sua aptidão, competência e formação profissional",
+            "Lealdade, zelo, competência, integridade de caráter e espírito de bem servir, utilizando e desenvolvendo de forma permanente a sua aptidão, competência e formação profissional"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Os polícias devem ter residência habitual na localidade onde predominantemente prestam serviço ou:",
+          "questionType": "text",
+          "answers": [
+            "Em local que diste até 40 km daquela",
+            "Em local que diste até 50 km daquela",
+            "Em local que diste até 60 km daquela",
+            "Em local que diste até 55 km daquela"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "São deveres especiais dos polícias:",
+          "questionType": "text",
+          "answers": [
+            "Atuar sem discriminação em razão de ascendência, sexo, raça, língua, território de origem, religião, convicções políticas ou ideológicas, instrução, situação econômica, condição social ou orientação sexual",
+            "Exibir previamente prova da sua qualidade quando, uniformizados, aplicarem medidas de polícia ou emitirem qualquer ordem ou mandado legítimo",
+            "Atuar com discriminação em razão de ascendência, sexo, raça, língua, território de origem, religião, convicções políticas ou ideológicas, instrução, situação econômica, condição social ou orientação sexual",
+            "Nenhuma das hipóteses está correta"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "O período anual de férias tem a duração de:",
+          "questionType": "text",
+          "answers": [
+            "21 dias úteis",
+            "20 dias úteis",
+            "18 dias úteis",
+            "22 dias úteis"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "As modalidades de licenças sem remuneração compreendem",
+          "questionType": "text",
+          "answers": [
+            "Licença sem remuneração de média duração",
+            "Licença sem remuneração de longa duração",
+            "Licença sem remuneração para acompanhamento de cônjuge falecido",
+            "Licença sem remuneração para o exercício de funções na União Europeia"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "O serviço da PSP é:",
+          "questionType": "text",
+          "answers": [
+            "De caráter exclusivo e de serviço ao cidadão",
+            "De caráter obrigatório e rotativo",
+            "De caráter permanente e obrigatório",
+            "De serviço ao público"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "O regime de turnos é:",
+          "questionType": "text",
+          "answers": [
+            "Obrigatório, quando o trabalho é prestado nos sete dias da semana",
+            "Semanal prolongado, quando é prestado em todos os cinco dias úteis e no sábado ou em feriados",
+            "Semanal, quando é prestado de segunda-feira a domingo",
+            "Nenhuma das hipóteses está correta"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Qual das alíneas não se encontra correta? Os polícias estão integrados, por ordem decrescente de hierarquia, nas seguintes carreiras e categorias:",
+          "questionType": "text",
+          "answers": [
+            "Oficial de polícia, que compreende as categorias de superintendente-chefe, superintendente, intendente, subintendente, comissário e subcomissário",
+            "Chefe de polícia, que compreende as categorias chefe coordenador, chefe principal e chefe",
+            "Agente de polícia, que compreende as categorias de agente coordenador, agente principal e agente",
+            "Agente provisório, sendo admitido ao curso de formação de agentes"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Os polícias podem encontrar-se numa das seguintes situações:",
+          "questionType": "text",
+          "answers": [
+            "De licença",
+            "Aposentados",
+            "Adido",
+            "Fora do Ativo"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Qual a posição a nível remuneratório de um Agente provisório?",
+          "questionType": "text",
+          "answers": [
+            "Nível 1",
+            "Nível 3",
+            "Nível 4",
+            "Nível 2"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "O período anual de férias tem a duração de quantos dias úteis?",
+          "questionType": "text",
+          "answers": [
+            "21",
+            "22",
+            "23",
+            "24"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Relativamente ao período de férias acresce um dia útil de férias por cada quantos anos de serviço efetivamente prestado?",
+          "questionType": "text",
+          "answers": [
+            "5",
+            "10",
+            "15",
+            "20"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Quem pode proceder à alteração do período de férias por conveniência de serviço?",
+          "questionType": "text",
+          "answers": [
+            "Diretor Nacional",
+            "Inspetor nacional",
+            "Membro do governo responsável pela área da Administração interna",
+            "Diretores nacionais adjuntos"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Que tipo de faltas existem?",
+          "questionType": "text",
+          "answers": [
+            "Justificadas e não justificadas",
+            "Justificadas e injustificadas",
+            "Justificadas",
+            "Não justificadas"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Com que antecedência é comunicada uma falta?",
+          "questionType": "text",
+          "answers": [
+            "2 dias úteis",
+            "2 dias",
+            "5 dias úteis",
+            "5 dias"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "De quem é a competência para a concessão da Licença sem remuneração de curta duração?",
+          "questionType": "text",
+          "answers": [
+            "Diretor Nacional",
+            "Membro do governo responsável pela área da Administração interna",
+            "Comandante da UEP",
+            "Diretores nacionais adjuntos"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "De quem é a competência para a concessão da Licença sem remuneração de longa duração?",
+          "questionType": "text",
+          "answers": [
+            "Diretor Nacional",
+            "Membro do governo responsável pela área da Administração interna",
+            "Comandante da UEP",
+            "Diretores nacionais adjuntos"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Por quanto tempo máximo é concedida a licença sem remuneração de curta duração?",
+          "questionType": "text",
+          "answers": [
+            "1 mês",
+            "6 meses",
+            "1 ano",
+            "2 anos"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Um oficial pode pedir a concessão licença sem remuneração de longa duração após quantos anos de ingresso na PSP?",
+          "questionType": "text",
+          "answers": [
+            "1 ano",
+            "2 anos",
+            "5 anos",
+            "10 anos"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "Carga horária semanal de um agente da PSP?",
+          "questionType": "text",
+          "answers": [
+            "32 horas",
+            "36 horas",
+            "40 horas",
+            "44 horas"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "O ingresso na carreira de oficial de polícia faz se em que categoria?",
+          "questionType": "text",
+          "answers": [
+            "Comissário",
+            "Subcomissário",
+            "Intendente",
+            "Superintendente"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "De quem é a competência os despachos da promoção?",
+          "questionType": "text",
+          "answers": [
+            "Diretor Nacional",
+            "Membro do governo responsável pela área da Administração interna",
+            "Comandante da UEP",
+            "Diretores nacionais adjuntos"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "Em que série são publicados os extratos dos despachos das promoções no DR?",
+          "questionType": "text",
+          "answers": [
+            "1ª",
+            "2ª",
+            "3ª",
+            "4ª"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "A carreira de oficial de polícia é uma carreira especial de complexidade funcional de que grau?",
+          "questionType": "text",
+          "answers": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "A promoção a comissário é feita mediante procedimento concursal, no qual é necessário no mínimo quantos anos de serviço efetivo na categoria de subcomissário?",
+          "questionType": "text",
+          "answers": [
+            "1",
+            "2",
+            "4",
+            "5"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "A promoção a superintendente-chefe é feita mediante procedimento concursal, no qual é necessário no mínimo quantos anos de serviço efetivo na categoria de superintendente?",
+          "questionType": "text",
+          "answers": [
+            "1",
+            "2",
+            "4",
+            "5"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Em que promoção é necessário estar habilitado com o Curso de Direção e Estratégia Policial (CDEP)?",
+          "questionType": "text",
+          "answers": [
+            "Superintendente",
+            "Intendente",
+            "Superintendente chefe",
+            "Subintendente"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "A carreira de chefe de polícia é uma carreira especial de complexidade funcional de que grau?",
+          "questionType": "text",
+          "answers": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "A promoção a chefe principal é feita mediante procedimento concursal, no qual é necessário no mínimo quantos anos de serviço na categoria de chefe?",
+          "questionType": "text",
+          "answers": [
+            "4",
+            "5",
+            "6",
+            "8"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "A mobilidade para os serviços da polícia municipal de Lisboa e do Porto é feita em que modalidade de colocação?",
+          "questionType": "text",
+          "answers": [
+            "colocação por oferecimento",
+            "colocação por promoção",
+            "colocação por convite",
+            "colocação por conveniência de serviço"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Indique a mais correta relativamente às colocações",
+          "questionType": "text",
+          "answers": [
+            "oferecimento, título excecional, convite",
+            "convite, promoção, conveniência de serviço, por doença",
+            "oferecimento, promoção, por doença, convite",
+            "convite, oferecimento, promoção, por conveniência de serviço"
+          ],
+          "correctAnswer": "4",
+          "point": "1"
+        },
+        {
+          "question": "A colocação por oferecimento pode ser:",
+          "questionType": "text",
+          "answers": [
+            "ordinária ou extraordinária",
+            "extraordinária",
+            "ordinária",
+            "ordinária e extraordinária"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "A colocação por convite faz-se em comissão de serviço por quanto tempo?",
+          "questionType": "text",
+          "answers": [
+            "1 ano",
+            "2 anos",
+            "3 anos",
+            "4 anos"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "A colocação por oferecimento consiste na colocação de um polícia onde?",
+          "questionType": "text",
+          "answers": [
+            "na Direção Nacional e nos comandos territoriais, na sequência de procedimento concursal para categoria superior ou por antiguidade.",
+            "um comando territorial, a requerimento do próprio, para ocupação de posto de trabalho na mesma categoria.",
+            "Direção Nacional, num estabelecimento de ensino policial ou nos Serviços Sociais da PSP, para ocupação de posto de trabalho na mesma categoria.",
+            "Todas as respostas anteriores erradas"
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+        },
+        {
+          "question": "São definitivamente nomeados na categoria de agente os alunos habilitados com o curso de formação de agentes. Após a conclusão do mesmo o polícia é sujeito a uma avaliação a ter lugar em período experimental com a duração de",
+          "questionType": "text",
+          "answers": [
+            "3 anos e o regime de avaliação do período experimental da nomeação dos polícias é aprovado por despacho do ministro da administração interna.",
+            "2 anos e o regime de avaliação do período experimental da nomeação dos polícias é aprovado por despacho do diretor nacional",
+            "Um ano e o regime de avaliação do período experimental da nomeação dos polícias é aprovado por despacho do diretor nacional.",
+            "5 anos e o regime de avaliação do período experimental da nomeação dos polícias é aprovado por despacho do ministro da administração interna sob proposta do diretor nacional."
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "Os policias estão integrados por ordem decrescente de hierarquia nas seguintes carreiras e categorias: Oficial de policia, que compreende as categorias de superintendente-chefe, superintendente, intendente, subintendente, comissario e subcomissário, chefe de policia que compreende as categorias chefe coordenador, chefe principal e chefe e agente de policia que compreende as categorias de agente coordenador, agente principal e agente.",
+          "questionType": "text",
+          "answers": [
+            "Verdadeiro",
+            "Falso"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "Quanto ao uso e porte de arma, os policias",
+          "questionType": "text",
+          "answers": [
+            "Não têm direito ao uso e porte de armas e munições de qualquer tipo, mesmo que se sujeitem a um plano de formação e de certificação constituído por provas teóricas e práticas de tiro.",
+            "Têm direito ao uso e porte de armas e munições de qualquer tipo, desde que as adquiram num armeiro, mas estão sujeitos a um plano de formação e de certificação constituído por provas teóricas e práticas de tiro.",
+            "Têm direito ao uso e porte de armas e munições de qualquer tipo, desde que distribuídas pelo estado, e estão sujeitos a um plano de formação e de certificação constituído por provas teóricas e práticas de tiro.",
+            "Têm direito ao uso e porte de armas e munições de qualquer tipo, desde que distribuídas pelo Estado e não estão sujeitos a um plano de formação e de certificação de tiro."
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        },
+        {
+          "question": "São condições de promoção para a categoria de agente principal",
+          "questionType": "text",
+          "answers": [
+              "Ter pelo menos o tempo mínimo de 4 anos de serviço efetivo na categoria de agente e estar na classe de comportamento exemplar ou na 1a classe de comportamento e ter frequentado, na categoria, um mínimo de 90 horas de formação policial ou de outras formações reconhecidas como de interesse para as competências da PSP",
+              "Ter pelo menos o tempo mínimo de 6 anos de serviço efetivo na categoria de agente e estar na classe de comportamento exemplar ou na 1a classe de comportamento e ter frequentado, na categoria, um mínimo de 90 horas de formação policial ou de outras formações reconhecidas como de interesse para as competências da PSP.",
+              "Ter pelo menos o tempo mínimo de 6 anos de serviço efetivo na categoria e agente e estar na classe de comportamento exemplar ou na 1a ou 2a classe de comportamento e ter frequentado, na categoria, um mínimo de 90 horas de formação policial ou de outras formações reconhecidas como de interesse para as competências da PSP",
+              "Ter pelo menos o tempo mínimo de 8 anos de serviço efetivo na categoria de agente e estar na classe de comportamento exemplar ou na 1a ou 2a classe de comportamento e ter frequentado, na categoria, um mínimo de 90 horas de formação policial ou de outras formações reconhecidas como de interesse para as competências da PSP."
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+      },
+      {
+          "question": "Os polícias exercem as suas funções devidamente uniformizados e armados. Para o exercício de funções operacionais ou de apoio:",
+          "questionType": "text",
+          "answers": [
+              "Que pela sua natureza e especificidade assim o exijam, nunca pode ser dispensado o uso de uniforme ou armamento.",
+              "Que pela sua natureza e especificidade assim o exijam, pode ser dispensado o uso de uniforme ou armamento, nas condições fixadas por despacho do diretor nacional.",
+              "Que pela sua natureza e especificidade assim o exijam, pode ser dispensado o uso de uniforme ou armamento, nas condições fixadas por despacho do Ministro da Administração Interna.",
+              "Que pela sua natureza e especificidade assim o exijam, pode ser dispensado o uso de uniforme ou armamento, nas condições fixadas por despacho do Comandante direto."
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+      },
+      {
+          "question": "Os polícias têm direito à dotação inicial do fardamento, aprovado por portaria do membro do Governo responsável pela área da administração interna, no momento do ingresso na PSP. Esta afirmação é:",
+          "questionType": "text",
+          "answers": [
+              "Verdadeira. A PSP participa nas despesas com a aquisição de fardamento efetuadas pelos polícias na efetividade de serviço, através da atribuição de uma comparticipação anual no valor de € 600, com a natureza de prestação social.",
+              "Falsa. A PSP não participa nas despesas com a aquisição de fardamento efetuadas pelos polícias na efetividade de serviço.",
+              "Verdadeira. A comparticipação anual no valor de € 600, com a natureza de prestação social, só é assegurada decorridos três anos sobre a data de ingresso na PSP.",
+              "Falsa. Os polícias, quando nomeados para integrarem missões internacionais ou de cooperação policial, podem beneficiar de uma dotação complementar de fardamento e equipamento, pagas pelo próprio."
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+      },
+      {
+          "question": "O direito a férias é irrenunciável e o seu gozo efetivo não pode ser substituído por qualquer compensação económica, ainda que com o acordo do interessado. No ano civil de ingresso, os polícias:",
+          "questionType": "text",
+          "answers": [
+              "Têm direito a dois dias e meio de férias por cada um dos meses completos de serviço efetivo prestado até 31 de dezembro desse ano.",
+              "Podem gozar as suas férias, após três meses completos de efetividade de serviço.",
+              "Têm direito a dois dias úteis de férias por cada um dos meses completos de serviço efetivo prestado até 31 de dezembro desse ano.",
+              "Podem gozar as suas férias, após doze meses completos de efetividade de serviço."
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+      },
+      {
+          "question": "A ausência, quando previsível, é comunicada por escrito ao superior hierárquico competente, acompanhada da indicação do motivo justificativo, com a antecedência mínima de cinco dias úteis. Esta afirmação é:",
+          "questionType": "text",
+          "answers": [
+              "Falsa. Os polícias podem faltar quatro dias por mês por conta do período de férias, até ao máximo de 15 dias por ano.",
+              "Verdadeira. Os polícias podem faltar dois dias por mês por conta do período de férias, até ao máximo de 13 dias por ano.",
+              "Falsa. As faltas por conta do período de férias são obrigatoriamente comunicadas com a antecedência mínima de 24 horas e estão sujeitas a autorização, que pode ser recusada se forem suscetíveis de causar prejuízo para o normal funcionamento do serviço, por decisão devidamente fundamentada.",
+              "Verdadeira. As faltas por conta do período de férias são obrigatoriamente comunicadas com a antecedência mínima de 24 horas e não estão sujeitas a autorização."
+          ],
+          "correctAnswer": "2",
+          "point": "1"
+      },
+      {
+          "question": "O artigo 7.o do Estatuto da PSP (Decreto-Lei n.º 243/2015, de 19 de outubro) prevê que os polícias estão sujeitos a um regime de continências e honras policiais próprio aprovado por portaria do ministro da tutela. É também definido neste artigo que as normas relativas a ordem unida, apresentação e aprumo são aprovadas por despacho...",
+          "questionType": "text",
+          "answers": [
+              "do ministro da defesa;",
+              "do ministro da administração interna;",
+              "do diretor nacional;",
+              "dos diretores nacionais-adjuntos."
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+      },
+      {
+        "question": "O Artigo 10.o do Estatuto da PSP (Decreto-Lei n.o 243/2015, de 19 de outubro) estabelece deveres profissionais que norteiam a ação do pessoal com funções policiais da PSP, prevendo que...",
+        "questionType": "text",
+        "answers": [
+            "os polícias não podem fazer declarações que afetem a subordinação da PSP à legalidade democrática, a dependência da instituição perante os órgãos do Governo, a sua isenção política e partidária, a coesão e o prestígio da instituição, ou que violem os princípios da hierarquia de comando e da disciplina, não sendo extensivo a declarações ou comentários públicos sobre matérias ou procedimentos operacionais da PSP",
+            "os polícias não podem fazer declarações que afetem a subordinação da PSP à legalidade democrática, a dependência da instituição perante os órgãos do Governo, a sua isenção política e partidária, a coesão e o prestígio da instituição, ou que violem os princípios da hierarquia de comando e da disciplina, sendo extensivo a declarações ou comentários públicos sobre matérias ou procedimentos operacionais da PSP",
+            "os polícias podem fazer declarações que afetem a subordinação da PSP à legalidade democrática, a dependência da instituição perante os órgãos do Governo, a sua isenção política e partidária, a coesão e o prestígio da instituição, ou que violem os princípios da hierarquia de comando e da disciplina, não sendo extensivo a declarações ou comentários públicos sobre matérias ou procedimentos operacionais da PSP",
+            "os polícias podem fazer declarações que afetem a subordinação da PSP à legalidade democrática, a dependência da instituição perante os órgãos do Governo, a sua isenção política e partidária, a coesão e o prestígio da instituição, ou que violem os princípios da hierarquia de comando e da disciplina, sendo extensivo a declarações ou comentários públicos sobre matérias ou procedimentos operacionais da PSP"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Em conformidade com o Estatuto da PSP em vigência, recai sobre o pessoal com funções policiais da PSP o dever de disponibilidade, o que implica que...",
+        "questionType": "text",
+        "answers": [
+            "os polícias devem manter permanente disponibilidade para o serviço, ainda que com sacrifício dos interesses pessoais",
+            "os polícias devem manter permanente disponibilidade para o serviço, desde que não implique sacrifício dos interesses pessoais",
+            "os polícias devem cumprir unicamente o horário de serviço para qual se encontram devidamente escalados",
+            "nenhuma afirmação anterior está correta"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "O Estatuto da PSP estabelece que os polícias têm direito ao uso e porte de arma e munições de qualquer tipo...",
+        "questionType": "text",
+        "answers": [
+            "desde que distribuídas pelo Estado, e estão sujeitos a um plano de formação e de certificação constituído por prova teórica e prática de tiro",
+            "desde que distribuídas pelo Estado, ficando o treino de tiro à responsabilidade dos mesmos a efetuar em clubes de tiro certificados",
+            "desde que adquiridas pelos próprios, ficando o treino de tiro à responsabilidade dos mesmos a efetuar em clubes de tiro certificados",
+            "nenhuma das afirmações anteriores está correta"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Atualmente a carreira de agente de polícia da PSP compreende as categorias:",
+        "questionType": "text",
+        "answers": [
+            "De agente principal e de agente",
+            "De agente principal, de agente e de guarda",
+            "De agente coordenador, de agente principal e de agente",
+            "De agente ajudante e de agente"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Nos termos do Estatuto da PSP, os despachos de promoção dos polícias são da competência do membro do Governo responsável pela área...",
+        "questionType": "text",
+        "answers": [
+            "das finanças",
+            "da economia",
+            "da administração interna",
+            "da defesa"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      }
+
+      ]
+}

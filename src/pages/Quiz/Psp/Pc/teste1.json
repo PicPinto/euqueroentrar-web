@@ -1,0 +1,563 @@
+{
+    "appLocale": {
+      "landingHeaderText": "<questionLength> Questões",
+      "question": "Questão",
+      "startQuizBtn": "Começar",
+      "resultFilterAll": "Todos",
+      "resultFilterCorrect": "Correcto",
+      "resultFilterIncorrect": "Incorrecto",
+      "prevQuestionBtn": "Anterior",
+      "nextQuestionBtn": "Proximo",
+      "resultPagePoint": "Pontuação: <correctPoints> de <totalPoints>.",
+      "resultPageHeaderText": "Quiz completo! Alcançaste <correctIndexLength> pontos em <questionLength> questões.",
+      "marksOfQuestion":"(<marks> pontos)",
+      "singleSelectionTagText": "Resposta única",
+      "pickNumberOfSelection": "Selecione <numberOfSelection> questão"
+      },
+  
+      "quizTitle": "Teste Geral",
+      "quizSynopsis": "Testa os teus conhecimentos sobre todos os temas.",
+      "questions": [
+        {
+            "question": "Das frases seguintes, apenas uma não tem erros ortográficos. Qual?",
+            "questionType": "text",
+            "answers": [
+              "“à menos menos mulheres na polícia do que nas outras forças de segurança.”",
+              "“há polícias que ao inicio do estagio preferem estar longe da residencia.”",
+              "“ah polícias com muita experiencia no âmbito dos furtos.”",
+              "“à inexperiência junta-se humildade e prudência, aconselhava-me um polícia aposentado.”"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "Considere a seguinte frase: “Havia intenção benévola”. Em qual das seguintes opções a frase se encontra, corretamente escrita, no plural.",
+            "questionType": "text",
+            "answers": [
+              "“havia intenções benévolas.”",
+              "“haviam intenções benévolas.”",
+              "“haviam intenções benévola.”",
+              "“houveram intenções benévolas.”"
+            ],
+            "correctAnswer": "1",
+            "point": "1"
+          },
+          {
+            "question": "Qual das frases seguintes tem a forma verbal adequada?",
+            "questionType": "text",
+            "answers": [
+              "no mês transato a PSP divulgará o número de queixas apresentadas.",
+              "eu iniciava a sessão fotográfica, ao mesmo tempo que tu abririas o livro.",
+              "atualmente os estudantes possuíam livros editados eletronicamente.",
+              "no ano passado, nós respondemos a um questionário sobre a avaliação."
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "Qual das seguintes palavras contém erro de acentuação?",
+            "questionType": "text",
+            "answers": [
+              "Comboio",
+              "Leem",
+              "Doi",
+              "Joia"
+            ],
+            "correctAnswer": "3",
+            "point": "1"
+          },
+          {
+            "question": "O que é um desiderato?",
+            "questionType": "text",
+            "answers": [
+              "Objetivo que se deseja atingir",
+              "Algo que não pertence ao espaço sideral",
+              "Rocha resultante de uma aglomeração de pequenas rochas e sem qualquer humidade na sua constituição",
+              "Um desperdício de uma Siderurgia"
+            ],
+            "correctAnswer": "1",
+            "point": "1"
+          },
+          {
+            "question": "O que significa a palavra delapidar?",
+            "questionType": "text",
+            "answers": [
+              "Corrigir eventuais erros, tornar mais perfeito",
+              "Desperdiçar ou destruir algo ou alguém",
+              "Construir lápides, arte de construir túmulos",
+              "Bondade e simplicidade"
+            ],
+            "correctAnswer": "2",
+            "point": "1"
+          },
+          {
+            "question": "O que significa a palavra verborreia?",
+            "questionType": "text",
+            "answers": [
+              "Condição de quem sofre de infeções nos órgãos da audição",
+              "Alguém que usa muitas palavras, mas com pouco conteúdo",
+              "Uma confusão de ideais que podem contradizer-se",
+              "Condição de quem sofre de infeções nos órgãos da visão"
+            ],
+            "correctAnswer": "2",
+            "point": "1"
+          },
+          {
+            "question": "O que significa a palavra sumidade?",
+            "questionType": "text",
+            "answers": [
+              "Eventualidade de desaparecer sem deixar rasto",
+              "Qualidade do conteúdo de um trabalho científico",
+              "Alguém que é ilustre ou importante",
+              "Alguém que é um esbanjador, que gasta me demasia"
+            ],
+            "correctAnswer": "3",
+            "point": "1"
+          },
+          {
+            "question": "O que significa a palavra 'enfezado'?",
+            "questionType": "text",
+            "answers": [
+              "Forte",
+              "Cansado",
+              "Definhado",
+              "Corado"
+            ],
+            "correctAnswer": "3",
+            "point": "1"
+          },
+          {
+            "question": "De entre as hipóteses apresentadas indique o sinónimo de cogitado:",
+            "questionType": "text",
+            "answers": [
+              "Vomitado",
+              "Pensado",
+              "Esperado",
+              "Mostrado"
+            ],
+            "correctAnswer": "2",
+            "point": "1"
+          },
+          {
+            "question": "Indique a palavra que não contém erro ortográfico:",
+            "questionType": "text",
+            "answers": [
+              "Extrapolar",
+              "Estrapular",
+              "Extrapular",
+              "Extarpolar"
+            ],
+            "correctAnswer": "1",
+            "point": "1"
+          },
+          {
+            "question": "O romance “Equador” tem como autor",
+            "questionType": "text",
+            "answers": [
+              "José Saramago",
+              "Miguel Esteves Cardoso",
+              "António Lobo Antunes",
+              "Miguel Sousa Tavares"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "A arábia saudita fica situada",
+            "questionType": "text",
+            "answers": [
+              "No continente africano",
+              "No continente europeu",
+              "No continente americano",
+              "No continente asiático"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "Foi atribuído a Nelson Mandela face à luta que travou contra o apartheid, na África do Sul",
+            "questionType": "text",
+            "answers": [
+              "O Nobel de economia",
+              "O prémio de Camões",
+              "O Nobel da paz",
+              "O óscar honorário"
+            ],
+            "correctAnswer": "3",
+            "point": "1"
+          },
+          {
+            "question": "A sigla OTAN, em português significa organização do tratado do atlântico norte. Em inglês, ela é chamada NATO, que significa",
+            "questionType": "text",
+            "answers": [
+              "North American Treatment Organization",
+              "North Atlantic Treasure and Organization",
+              "North Atlantic Treaty Organization",
+              "North American Treaty and Organization"
+            ],
+            "correctAnswer": "3",
+            "point": "1"
+          },
+          {
+            "question": "O moliceiro é um barco característico",
+            "questionType": "text",
+            "answers": [
+              "Do rio douro",
+              "Do rio Tejo",
+              "Do rio Sado",
+              "Da ria de Aveiro"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "A monarquia em Portugal terminou em",
+            "questionType": "text",
+            "answers": [
+              "1890",
+              "1900",
+              "1926",
+              "1910"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "Os naturais de Santarém são",
+            "questionType": "text",
+            "answers": [
+              "Santarenenses",
+              "Albicastrenses",
+              "Vimarenenses",
+              "Escalabitanos"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "O pelourinho é",
+            "questionType": "text",
+            "answers": [
+              "O secretário do detentor de um pelouro autárquico",
+              "O local mais alto de uma cidade",
+              "O detentor de um pelouro autárquico",
+              "O local da cidade onde antigamente eram amarrados os delinquentes e outros criminosos, a fim de serem exemplo de justiça"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "O atentado à maratona de Boston ocorreu em 2013. O FBI concluiu que",
+            "questionType": "text",
+            "answers": [
+              "Os responsáveis identificados eram do sexo masculino, primos e as bombas explodiram junto à linha de partida da prova",
+              "Um dos responsáveis identificados era do sexo masculino e outro do sexo feminino, irmãos e as bombas explodiram junto à linha da chegada da prova",
+              "Os responsáveis identificados eram do sexo masculino, amigos, e as bombas explodiram a meio do percurso da prova",
+              "Os responsáveis identificados eram do sexo masculino, irmãos e as bombas explodiram junto à linha de chegada da prova"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "O monumento conhecido como a Sagrada Família está localizado em",
+            "questionType": "text",
+            "answers": [
+              "Roma",
+              "Londres",
+              "Barcelona",
+              "Atenas"
+            ],
+            "correctAnswer": "3",
+            "point": "1"
+          },
+          {
+            "question": "A capital da Hungria é",
+            "questionType": "text",
+            "answers": [
+              "Praga",
+              "Budapeste",
+              "Roma",
+              "Zagreb"
+            ],
+            "correctAnswer": "2",
+            "point": "1"
+          },
+          {
+            "question": "Qual destas mulheres não ocupou a presidência de um país sul-americano?",
+            "questionType": "text",
+            "answers": [
+              "Dilma Rousseff",
+              "Cristina Kirchner",
+              "Michelle Bachelet",
+              "Corazon Aquino"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "A constituição da república portuguesa de 1976 (atual constituição portuguesa) foi redigida",
+            "questionType": "text",
+            "answers": [
+              "Pela assembleia constituinte nomeada",
+              "Por um comité de peritos",
+              "Pelo governo da república",
+              "Pela assembleia constituinte eleita"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "A assembleia da república tem",
+            "questionType": "text",
+            "answers": [
+              "O mínimo de 200 e o máximo de 230 deputados, nos termos da lei eleitoral",
+              "O máximo de 250 deputados, nos termos da lei eleitoral",
+              "O mínimo de 180 e o máximo de 280 deputados, nos termos da lei eleitoral",
+              "O mínimo de 180 e o máximo de 230 deputados, nos termos da lei eleitoral"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "A legislatura da assembleia da república tem duração de",
+            "questionType": "text",
+            "answers": [
+              "5 sessões legislativas",
+              "4 sessões legislativas",
+              "4 anos civis",
+              "5 anos civis"
+            ],
+            "correctAnswer": "2",
+            "point": "1"
+          },
+          {
+            "question": "O governo é constituído",
+            "questionType": "text",
+            "answers": [
+              "Pelo primeiro-ministro, pelos ministros e pelos secretários e subsecretários de estado",
+              "Pelos ministros e pelos secretários e subsecretários de estado",
+              "Pelo primeiro ministro e pelos secretários e subsecretários de estado",
+              "Pelo primeiro ministro e subsecretários de estado"
+            ],
+            "correctAnswer": "1",
+            "point": "1"
+          },
+          {
+            "question": "Nos termos do artigo 14º da DUDH todo ser humano, vítima de perseguição tem o direito de procurar e de gozar de asilo em outros países, exceto por crimes",
+            "questionType": "text",
+            "answers": [
+              "De direito comum ou por todos os atos contrários aos objetivos e princípios das Nações Unidas",
+              "Políticos",
+              "Cometidos contra Estados ditatoriais com o fim de os derrubar",
+              "De direito comum ou por atos segundo os objetivos e princípios das Nações Unidas"
+            ],
+            "correctAnswer": "1",
+            "point": "1"
+          },
+          {
+            "question": "Nos termos do artigo 23º da DUDH todo ser humano que trabalha tem direito",
+            "questionType": "text",
+            "answers": [
+              "A uma remuneração justa e satisfatória que lhe assegure, assim como à sua família, uma existência compatível com a sua condição social",
+              "A uma remuneração justa e satisfatória que lhe assegure, assim como à sua família uma existência que lhe permita no mínimo alimentar-se",
+              "A uma remuneração justa e satisfatória que lhe assegure, assim como à sua família, uma existência compatível com os padrões sociais mais elevados da sociedade",
+              "A uma remuneração justa e satisfatória que lhe assegure, assim como à sua família, uma existência compatível com a dignidade humana"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "Podemos considerar antecessor da DUDH o cilindro",
+            "questionType": "text",
+            "answers": [
+              "De Ciro",
+              "Do imperador César Augustus",
+              "Do imperador Napoleão Bonaparte",
+              "De Viriato da Lusitânia"
+            ],
+            "correctAnswer": "1",
+            "point": "1"
+          },
+          {
+            "question": "Ao longo dos anos a organização da PSP sofreu algumas alterações com o intuito de acompanhar a evolução da sociedade portuguesa. Das afirmações que se seguem indique qual corresponde à atual organização da PSP:",
+            "questionType": "text",
+            "answers": [
+              "PSP compreende um comando geral, os comandos metropolitanos, os comandos regionais, os comandos de polícia, o comando das forças especiais e os estabelecimentos de ensino",
+              "A PSP compreende o comando geral e as polícias distritais",
+              "A PSP compreende a direção nacional, as unidades de polícia e os estabelecimentos de ensino policial",
+              "A PSP compreende direção nacional, os comandos metropolitanos, regionais e de polícia, o corpo de intervenção, o grupo de operações especiais, o corpo de segurança pessoal, o instituto superior de ciências policiais e segurança interna e escola pratica de policia"
+            ],
+            "correctAnswer": "3",
+            "point": "1"
+          },
+          {
+            "question": "A PSP depende do membro do governo responsável pela",
+            "questionType": "text",
+            "answers": [
+              "Área da administração interna e a sua organização é única para todo o território nacional",
+              "Área da administração interna conjuntamente com a área da justiça e a sua organização é única para todo o território nacional",
+              "Área da justiça e a sua organização é única para todo o território nacional",
+              "Área da administração interna e a sua organização é dividida em duas áreas territoriais- urbana e rural"
+            ],
+            "correctAnswer": "1",
+            "point": "1"
+          },
+          {
+            "question": "Em situações de normalidade institucional, as atribuições da PSP são as decorrentes da legislação de segurança interna. Constituem atribuições da PSP",
+            "questionType": "text",
+            "answers": [
+              "Garantir a ordem e a tranquilidade públicas e a segurança e os interesses particulares das pessoas e dos bens",
+              "Prevenir a criminalidade em geral, coordenando todas as demais forças e serviços de segurança",
+              "Garantir as condições de segurança que permitam o exercício dos direitos e liberdades e o respeito pelas garantias dos cidadãos, bem como o pleno funcionamento das instituições democráticas no respeito pela legalidade e pelos princípios do estado de direito",
+              "Desenvolver todas as ações de investigação criminal e contra-ordenacional que lhe sejam denunciadas, em total autonomia"
+            ],
+            "correctAnswer": "3",
+            "point": "1"
+          },
+          {
+            "question": "A direção nacional compreende",
+            "questionType": "text",
+            "answers": [
+              "O diretor nacional, os diretores nacionais adjuntos, o conselho superior de polícia, o conselho de deontologia e disciplina a junta superior de saúde e a inspeção",
+              "O diretor nacional, os diretores nacionais adjuntos, a inspeção, as unidades orgânicas de operações e segurança, de recursos humanos e de logística e finanças",
+              "O diretor nacional, os diretores nacionais adjuntos, o conselho superior de polícia, o conselho de deontologia e disciplina, a junta superior de saúde, a inspeção, as unidades orgânicas de operações e segurança, de recursos humanos e de logística e finanças",
+              "O diretor nacional, os diretores nacionais adjuntos, o conselho superior de polícia, o conselho de deontologia e disciplina, a inspeção, as unidades orgânicas de operações e segurança, de recursos humanos e de logística e finanças"
+            ],
+            "correctAnswer": "3",
+            "point": "1"
+          },
+          {
+            "question": "O diretor nacional da PSP é coadjuvado por",
+            "questionType": "text",
+            "answers": [
+              "4 diretores nacionais adjuntos, que dirigem respetivamente, as unidades orgânicas de operações e segurança, de recursos humanos, de logística e finanças e a inspeção",
+              "3 diretores nacionais adjuntos, que dirigem respetivamente, as unidades orgânicas de operações e segurança, de recursos humanos e de logística e finanças",
+              "2 diretores nacionais adjuntos, que dirigem respetivamente, as unidades orgânicas de operações e segurança e de recursos humanos",
+              "3 diretores nacionais adjuntos, que dirigem respetivamente, o conselho superior de polícia, o conselho de deontologia e disciplina e a junta superior de saúde"
+            ],
+            "correctAnswer": "2",
+            "point": "1"
+          },
+          {
+            "question": "O diretor da PSP é substituído nas suas faltas ou impedimentos",
+            "questionType": "text",
+            "answers": [
+              "Pelo diretor nacional adjunto que dirige a unidade orgânica de operações e segurança",
+              "Pelo diretor nacional adjunto que dirige a unidade orgânica de recursos humanos",
+              "Pelo diretor nacional adjunto que dirige a unidade orgânica de logística e finanças",
+              "Pelo diretor nacional adjunto que dirige o conselho superior de polícia"
+            ],
+            "correctAnswer": "1",
+            "point": "1"
+          },
+          {
+            "question": "A escola prática de polícia é um estabelecimento de ensino policial, na dependência do diretor nacional, que tem por missão",
+            "questionType": "text",
+            "answers": [
+              "Formar oficiais de polícia, promover o seu aperfeiçoamento permanente e realizar, coordenar ou colaborar em projetos de investigação do domínio das ciências policiais",
+              "Ministrar cursos e estágios de formação, aperfeiçoamento e atualização de agentes, chefes e oficiais, e de especialização para todo o pessoal da PSP",
+              "Formar oficiais de polícia, ministrar cursos e estágios de formação, aperfeiçoamento e atualização de agentes e chefes. Ministrar cursos e estágios de formação, aperfeiçoamento e atualização de agentes e chefes, e de especialização para todo o pessoal da PSP",
+              "Ministrar cursos e estágios de formação, aperfeiçoamento e atualização de agentes e chefes, e de especialização para todo o pessoal da PSP"
+            ],
+            "correctAnswer": "4",
+            "point": "1"
+          },
+          {
+            "question": "A unidade especial de polícia (UEP) compreende as seguintes subunidades operacionais:",
+            "questionType": "text",
+            "answers": [
+              "O corpo de intervenção, o grupo de operações especiais, o corpo de segurança pessoal, o grupo de intervenção de proteção e socorro e o grupo operacional cinotécnico",
+              "O corpo de intervenção, o grupo de operações especiais, o corpo de segurança pessoal, o centro de inativação de explosivos e segurança em subsolo e o grupo operacional cinotécnico",
+              "O corpo de intervenção, o grupo de operações especiais, o serviço de estrangeiros e fronteiras, o centro de inativação de explosivos e segurança em subsolo e o grupo operacional cinotécnico",
+              "O corpo de intervenção, o grupo de operações especiais, o serviço de estrangeiros e fronteiras, o centro de inativação de explosivos e segurança em subsolo e a unidade de controlo costeiro"
+            ],
+            "correctAnswer": "2",
+            "point": "1"
+          },
+          {
+            "question": "O corpo de intervenção (CI) constitui uma força reservada à ordem do diretor nacional, especialmente preparada e destinada a ser utilizada",
+            "questionType": "text",
+            "answers": [
+              "Em ações de manutenção e reposição da ordem pública",
+              "Para a segurança pessoal de altas entidades, membros de órgãos de soberania, proteção policial de testemunhas ou outros cidadãos sujeitos a ameaça",
+              "Para combater situações de violência declarada cuja resolução ultrapasse os meios normais de atuação",
+              "Especialmente na aplicação de canídeos no quadro de competências da PSP"
+            ],
+            "correctAnswer": "1",
+            "point": "1"
+          },
+          {
+            "question": "Os policiais estão integrados por ordem decrescente de hierarquia nas seguintes carreiras e categorias:",
+            "questionType": "text",
+            "answers": [
+              "Oficial de polícia, que compreende as categorias de superintendente, intendente, subintendente e comissário, chefe de polícia, que compreende as categorias chefe coordenador, chefe principal e chefe e agente de polícia, que compreende as seguintes categorias de agente coordenador, agente principal e agente",
+              "Oficial de polícia que compreende as categorias de superintendente-chefe, superintendente, intendente e subcomissário, chefe de polícia que compreende as categorias chefe principal e chefe e agente de polícia que compreende as categorias de agente principal e agente",
+              "Oficial de polícia, que compreende as categorias de superintendente-chefe, superintendente, intendente, subintendente, comissário e subcomissário, chefe de polícia que compreende as categorias chefe coordenador, chefe principal e chefe e agente de polícia que compreende as categorias de agente coordenador, agente principal e agente",
+              "Oficial de polícia, que compreende as categorias de superintendente, intendente, subintendente, comissário e subcomissário, chefe de polícia que compreende as categorias chefe coordenador, chefe principal e chefe e agente de polícia, que compreende as categorias de agente principal e agente"
+            ],
+            "correctAnswer": "3",
+            "point": "1"
+          },
+          {
+            "question": "São definitivamente nomeados na categoria de agente os alunos habilitados com o curso de formação de agentes. Após a conclusão do mesmo o policial é sujeito a uma avaliação a ter lugar em período experimental com a duração de",
+            "questionType": "text",
+            "answers": [
+              "3 anos e o regime de avaliação do período experimental da nomeação dos policiais é aprovado por despacho do ministro da administração interna",
+              "2 anos e o regime de avaliação do período experimental da nomeação dos policiais é aprovado por despacho do diretor nacional",
+              "Um ano e o regime de avaliação do período experimental da nomeação dos policiais é aprovado por despacho do diretor nacional",
+              "5 anos e o regime de avaliação do período experimental da nomeação dos policiais é aprovado por despacho do ministro da administração interna sob proposta do diretor nacional"
+            ],
+            "correctAnswer": "3",
+            "point": "1"
+          },
+          {
+            "question": "São condições de promoção para a categoria de agente principal",
+            "questionType": "text",
+            "answers": [
+              "Ter pelo menos o tempo mínimo de 4 anos de serviço efetivo na categoria de agente e estar na classe de comportamento exemplar ou na 1ª classe de comportamento e ter frequentado, na categoria, um mínimo de 90 horas de formação policial ou de outras formações reconhecidas como de interesse para as competências da PSP",
+              "Ter pelo menos o tempo mínimo de 6 anos de serviço efetivo na categoria de agente e estar na classe de comportamento exemplar ou na 1ª classe de comportamento e ter frequentado, na categoria, um mínimo de 90 horas de formação policial ou de outras formações reconhecidas como de interesse para as competências da PSP",
+              "Ter pelo menos o tempo mínimo de 6 anos de serviço efetivo na categoria e agente e estar na classe de comportamento exemplar ou na 1ª ou 2ª classe de comportamento e ter frequentado, na categoria, um mínimo de 90 horas de formação policial ou de outras formações reconhecidas como de interesse para as competências da PSP",
+              "Ter pelo menos o tempo mínimo de 8 anos de serviço efetivo na categoria de agente e estar na classe de comportamento exemplar ou na 1ª ou 2ª classe de comportamento e ter frequentado, na categoria, um mínimo de 90 horas de formação policial ou de outras formações reconhecidas como de interesse para as competências da PSP"
+            ],
+            "correctAnswer": "2",
+            "point": "1"
+          },
+          {
+            "question": "Quanto ao uso e porte de arma, os policiais",
+            "questionType": "text",
+            "answers": [
+              "Não têm direito ao uso e porte de armas e munições de qualquer tipo, mesmo que se sujeitem a um plano de formação e de certificação constituído por provas teóricas e práticas de tiro",
+              "Têm direito ao uso e porte de armas e munições de qualquer tipo, desde que as adquiram num armeiro, mas estão sujeitos a um plano de formação e de certificação constituído por provas teóricas e práticas de tiro",
+              "Têm direito ao uso e porte de armas e munições de qualquer tipo, desde que distribuídas pelo estado, e estão sujeitos a um plano de formação e de certificação constituído por provas teóricas e práticas de tiro",
+              "Têm direito ao uso e porte de armas e munições de qualquer tipo, desde que distribuídas pelo Estado e não estão sujeitos a um plano de formação e de certificação de tiro"
+            ],
+            "correctAnswer": "3",
+            "point": "1"
+          },
+          {
+            "question": "O parlamento europeu é composto por representantes",
+            "questionType": "text",
+            "answers": [
+              "Dos cidadãos da união",
+              "Dos estados da união",
+              "Dos governos dos estados da união",
+              "Das instituições da união"
+            ],
+            "correctAnswer": "1",
+            "point": "1"
+          },
+          {
+            "question": "O conselho europeu é composto",
+            "questionType": "text",
+            "answers": [
+              "Pelos chefes de estado ou de governo dos estados membros, bem como pelo seu presidente e pelo presidente da comissão",
+              "Apenas pelos chefes de estado dos estados membros",
+              "Pelos ministros dos negócios estrangeiros dos estados membros",
+              "Pelos ministros dos negócios estrangeiros dos estados membros, bem como pelo seu presidente e pelo presidente da comissão"
+            ],
+            "correctAnswer": "1",
+            "point": "1"
+          }
+      ]
+    }
+

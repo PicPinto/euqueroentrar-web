@@ -1,0 +1,716 @@
+
+{
+    "appLocale": {
+      "landingHeaderText": "<questionLength> Questões",
+      "question": "Questão",
+      "startQuizBtn": "Começar",
+      "resultFilterAll": "Todos",
+      "resultFilterCorrect": "Correcto",
+      "resultFilterIncorrect": "Incorrecto",
+      "prevQuestionBtn": "Anterior",
+      "nextQuestionBtn": "Proximo",
+      "resultPagePoint": "Pontuação: <correctPoints> de <totalPoints>.",
+      "resultPageHeaderText": "Quiz completo! Alcançaste <correctIndexLength> pontos em <questionLength> questões.",
+      "marksOfQuestion":"(<marks> pontos)",
+      "singleSelectionTagText": "Resposta única",
+      "pickNumberOfSelection": "Selecione <numberOfSelection> questão"
+      },
+  
+      "quizTitle": "Lei Orgânica - PSP",
+      "quizSynopsis": "Testa os teus conhecimentos sobre a Lei Orgânica da PSP",
+      "questions": [
+        {
+        "question": "A PSP é:",
+        "questionType": "text",
+        "answers": [
+          "Força de segurança uniformizada e armada",
+          "De natureza de serviço público",
+          "Dotada de autonomia administrativa",
+          "Todas as respostas estão corretas"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A PSP tem por missão:",
+        "questionType": "text",
+        "answers": [
+          "Garantir a segurança externa",
+          "Garantir os direitos dos cidadãos",
+          "Assegurar a ilegalidade democrática",
+          "Todas as respostas estão corretas"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Fora da área de responsabilidade da PSP, esta pode actuar dependendo de:",
+        "questionType": "text",
+        "answers": [
+          "Pedido de outra força de segurança",
+          "De ordem externa",
+          "Ninguém. Pode atuar de forma livre",
+          "Hora de troca de turno"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "É Autoridade de polícia:",
+        "questionType": "text",
+        "answers": [
+          "O director-nacional",
+          "O comandante da UEP",
+          "Oficiais de PSP aquando de funções de comando ou chefia operacional",
+          "Todas as respostas estão corretas"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A Polícia de Segurança Pública:",
+        "questionType": "text",
+        "answers": [
+          "É uma força de segurança, militarizada e armada, com natureza de serviço público e dotada de autonomia administrativa.",
+          "É uma força de segurança, uniformizada, militarizada e armada, com natureza de serviço público e dotada de autonomia administrativa.",
+          "É uma força de segurança, uniformizada e armada, com natureza de serviço privado e dotada de autonomia administrativa.",
+          "É uma força de segurança, uniformizada e armada, com natureza de serviço público e dotada de autonomia administrativa."
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A PSP",
+        "questionType": "text",
+        "answers": [
+          "depende do membro do Governo responsável pela área da Defesa Nacional e a sua organização é única para todo o território nacional.",
+          "depende do membro do Governo responsável pela área da administração interna e a sua organização é única para todo o território nacional.",
+          "depende do membro do Governo responsável pela área da administração interna e a sua organização é única para todo o território internacional.",
+          "depende do membro do Governo responsável pela área da Defesa Nacional e a sua organização é única para todo o território internacional."
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Constituem atribuições da PSP:",
+        "questionType": "text",
+        "answers": [
+          "Garantir as condições de segurança que permitam o exercício dos direitos e liberdades e o respeito pelas garantias dos cidadãos, bem como o pleno funcionamento das instituições democráticas, no respeito pela legalidade e pelos princípios do Estado de direito;",
+          "Garantir a ordem e a tranquilidade públicas e a segurança e a proteção das pessoas e dos bens;",
+          "Prevenir a criminalidade em geral, em coordenação com as demais forças e serviços de segurança;",
+          "Todas as respostas estão corretas."
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A PSP",
+        "questionType": "text",
+        "answers": [
+          "não pode dirimir conflitos de natureza privada, devendo, nesses casos, limitar a sua ação à manutenção da ordem pública.",
+          "pode dirimir conflitos de natureza privada, devendo, nesses casos, limitar a sua ação à manutenção da ordem pública.",
+          "pode dirimir conflitos de natureza privada e publica, devendo, nesses casos, limitar a sua ação à manutenção da ordem pública.",
+          "não pode dirimir conflitos de natureza publica, devendo, nesses casos, limitar a sua ação à manutenção da ordem pública."
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "A intervenção da PSP depende:",
+        "questionType": "text",
+        "answers": [
+          "Do pedido de outra força de segurança;",
+          "De ordem especial;",
+          "De imposição legal.",
+          "Todas as respostas estão corretas."
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Deveres de colaboração da PSP",
+        "questionType": "text",
+        "answers": [
+          "A PSP, sem prejuízo das prioridades legais da sua atuação, coopera com as demais forças e serviços de segurança, bem como com as autoridades privadas, designadamente, com os órgãos autárquicos e outros organismos, nos termos da lei.",
+          "As autoridades da administração central, regional e local, os serviços públicos e as demais entidades públicas ou privadas devem prestar à PSP a colaboração que legitimamente lhes for solicitada para o exercício das suas funções.",
+          "As autoridades administrativas podem não comunicar à PSP, quando solicitado, o teor das decisões sobre as infrações que esta lhes tenha participado.",
+          "Todas as respostas anteriores estão erradas"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Considera-se força pública:",
+        "questionType": "text",
+        "answers": [
+          "o efetivo mínimo de quatro agentes em missão de serviço.",
+          "o efetivo mínimo de um agente em missão de serviço.",
+          "o efetivo mínimo de dois agentes em missão de serviço.",
+          "o efetivo mínimo de três agentes em missão de serviço."
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "São consideradas autoridades de polícia:",
+        "questionType": "text",
+        "answers": [
+          "O diretor nacional; Os diretores nacionais-adjuntos; O inspetor nacional; O comandante da Unidade Especial de Polícia; Os comandantes das unidades e subunidades até ao nível de esquadra; Outros oficiais da PSP, quando no exercício de funções de comando ou chefia operacional.",
+          "O diretor nacional; Os diretores nacionais-adjuntos; O inspetor nacional; O comandante da Unidade Especial de Polícia; Os comandantes das unidades e subunidades até ao nível de territórios; Outros oficiais da PSP, quando no exercício de funções de comando ou chefia operacional.",
+          "O diretor nacional; Os diretores nacionais-adjuntos; O inspetor nacional; O comandante da Unidade Especial de Polícia; Os comandantes das unidades; chefe comissario e subunidades até ao nível de esquadra.",
+          "Os diretores nacionais-adjuntos; O inspetor nacional; O comandante da Unidade Especial de Polícia; Os comandantes das unidades e subunidades até ao nível de esquadra; Outros oficiais da PSP, quando no exercício de funções de comando ou chefia operacional."
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Prestação de serviços especiais",
+        "questionType": "text",
+        "answers": [
+          "A PSP pode manter pessoal com funções policiais em organismos de interesse público, em condições definidas por portaria do ministro das finanças.",
+          "A PSP não pode manter pessoal com funções policiais em organismos de interesse público, em condições definidas por portaria do ministro da tutela.",
+          "O pessoal da PSP não pode ser nomeado em comissão de serviço para organismos internacionais ou países estrangeiros, em função dos interesses nacionais e dos compromissos.",
+          "O pessoal da PSP pode ser nomeado em comissão de serviço para organismos internacionais ou países estrangeiros, em função dos interesses nacionais e dos compromissos."
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Estrutura Geral da PSP",
+        "questionType": "text",
+        "answers": [
+          "A Direção Nacional; As unidades de polícia; Os estabelecimentos de ensino policial.",
+          "A Direção Nacional; Os estabelecimentos de ensino policial, comandos territoriais.",
+          "A Direção Nacional; As unidades de força; Os estabelecimentos de ensino policial.",
+          "A Direção Nacional; As unidades de polícia; Os estabelecimentos de prisão."
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "São estabelecimentos de ensino policial:",
+        "questionType": "text",
+        "answers": [
+          "Instituto Superior de Culturas Policiais e Segurança Interna; A Escola Prática de Polícia.",
+          "Instituto Ciências Policiais e Segurança Interna; A Escola Prática de Polícia.",
+          "Instituto Superior de Ciências Policiais e Segurança Interna; A Escola Prática de Polícia.",
+          "Instituto Superior de Ciências Policiais e Segurança Internacional; A Escola Prática de Polícia."
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "São órgãos de inspeção e consulta:",
+        "questionType": "text",
+        "answers": [
+          "A Inspeção; O Conselho Superior de Polícia, o Conselho de Deontologia e Disciplina e a Junta Superior de Saúde.",
+          "A Inspeção; O Conselho Superior de Polícia, o Conselho de Deontologia e Disciplina e a Junta Superior de Saúde, órgãos de consulta.",
+          "A Inspeção; O Conselho Supremo de Polícia, o Conselho de Deontologia e Disciplina e a Junta Superior de Saúde, órgãos de consulta.",
+          "A Inspeção; O Conselho Superior de Polícia, o Conselho de Deontologia e Disciplina e a Junta de Saúde, órgãos de consulta."
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Os comandos territoriais de polícia compreendem",
+        "questionType": "text",
+        "answers": [
+          "Serviços e subunidades.",
+          "O comando, serviços.",
+          "O comando, serviços e subunidades.",
+          "O comando, comandos territoriais e subunidades."
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Comando de subunidades",
+        "questionType": "text",
+        "answers": [
+          "O comando das subunidades é exercido por um Superintendente-Chefe.",
+          "O comando das subunidades é exercido por um Superintendente-Chefe, coadjuvado por um adjunto.",
+          "O comando das subunidades é exercido por um comandante.",
+          "O comando das subunidades é exercido por um comandante, coadjuvado por um adjunto."
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A UEP compreende a seguinte subunidade operacional:",
+        "questionType": "text",
+        "answers": [
+          "O Corpo de Intervenção.",
+          "O Corpo de Operações Especiais.",
+          "O Corpo de Segurança Pessoal e intelectual.",
+          "Todas as respostas anteriores estão corretas."
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Considera-se força pública:",
+        "questionType": "text",
+        "answers": [
+          "o efetivo mínimo de quatro agentes em missão de serviço.",
+          "o efetivo mínimo de um agente em missão de serviço.",
+          "o efetivo mínimo de dois agentes em missão de serviço.",
+          "o efetivo mínimo de três agentes em missão de serviço."
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "São consideradas autoridades de polícia:",
+        "questionType": "text",
+        "answers": [
+          "O diretor nacional; Os diretores nacionais-adjuntos; O inspetor nacional; O comandante da Unidade Especial de Polícia; Os comandantes das unidades e subunidades até ao nível de esquadra; Outros oficiais da PSP, quando no exercício de funções de comando ou chefia operacional.",
+          "O diretor nacional; Os diretores nacionais-adjuntos; O inspetor nacional; O comandante da Unidade Especial de Polícia; Os comandantes das unidades e subunidades até ao nível de territórios; Outros oficiais da PSP, quando no exercício de funções de comando ou chefia operacional.",
+          "O diretor nacional; Os diretores nacionais-adjuntos; O inspetor nacional; O comandante da Unidade Especial de Polícia; Os comandantes das unidades; chefe comissario e subunidades até ao nível de esquadra.",
+          "Os diretores nacionais-adjuntos; O inspetor nacional; O comandante da Unidade Especial de Polícia; Os comandantes das unidades e subunidades até ao nível de esquadra; Outros oficiais da PSP, quando no exercício de funções de comando ou chefia operacional."
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Prestação de serviços especiais",
+        "questionType": "text",
+        "answers": [
+          "A PSP pode manter pessoal com funções policiais em organismos de interesse público, em condições definidas por portaria do ministro das finanças.",
+          "A PSP não pode manter pessoal com funções policiais em organismos de interesse público, em condições definidas por portaria do ministro da tutela.",
+          "O pessoal da PSP não pode ser nomeado em comissão de serviço para organismos internacionais ou países estrangeiros, em função dos interesses nacionais e dos compromissos.",
+          "O pessoal da PSP pode ser nomeado em comissão de serviço para organismos internacionais ou países estrangeiros, em função dos interesses nacionais e dos compromissos."
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Estrutura Geral da PSP",
+        "questionType": "text",
+        "answers": [
+          "A Direção Nacional; As unidades de polícia; Os estabelecimentos de ensino policial.",
+          "A Direção Nacional; Os estabelecimentos de ensino policial, comandos territoriais.",
+          "A Direção Nacional; As unidades de força; Os estabelecimentos de ensino policial.",
+          "A Direção Nacional; As unidades de polícia; Os estabelecimentos de prisão."
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "São estabelecimentos de ensino policial:",
+        "questionType": "text",
+        "answers": [
+          "Instituto Superior de Culturas Policiais e Segurança Interna; A Escola Prática de Polícia.",
+          "Instituto Ciências Policiais e Segurança Interna; A Escola Prática de Polícia.",
+          "Instituto Superior de Ciências Policiais e Segurança Interna; A Escola Prática de Polícia.",
+          "Instituto Superior de Ciências Policiais e Segurança Internacional; A Escola Prática de Polícia."
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "São órgãos de inspeção e consulta:",
+        "questionType": "text",
+        "answers": [
+          "A Inspeção; O Conselho Superior de Polícia, o Conselho de Deontologia e Disciplina e a Junta Superior de Saúde.",
+          "A Inspeção; O Conselho Superior de Polícia, o Conselho de Deontologia e Disciplina e a Junta Superior de Saúde, órgãos de consulta.",
+          "A Inspeção; O Conselho Supremo de Polícia, o Conselho de Deontologia e Disciplina e a Junta Superior de Saúde, órgãos de consulta.",
+          "A Inspeção; O Conselho Superior de Polícia, o Conselho de Deontologia e Disciplina e a Junta de Saúde, órgãos de consulta."
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Os comandos territoriais de polícia compreendem",
+        "questionType": "text",
+        "answers": [
+          "Serviços e subunidades.",
+          "O comando, serviços.",
+          "O comando, serviços e subunidades.",
+          "O comando, comandos territoriais e subunidades."
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Comando de subunidades",
+        "questionType": "text",
+        "answers": [
+          "O comando das subunidades é exercido por um Superintendente-Chefe.",
+          "O comando das subunidades é exercido por um Superintendente-Chefe, coadjuvado por um adjunto.",
+          "O comando das subunidades é exercido por um comandante.",
+          "O comando das subunidades é exercido por um comandante, coadjuvado por um adjunto."
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A UEP compreende a seguinte subunidade operacional:",
+        "questionType": "text",
+        "answers": [
+          "O Corpo de Intervenção.",
+          "O Corpo de Operações Especiais.",
+          "O Corpo de Segurança Pessoal e intelectual.",
+          "Todas as respostas anteriores estão corretas."
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Instituto Superior de Ciências Policiais e Segurança Interna",
+        "questionType": "text",
+        "answers": [
+          "O Instituto Superior de Ciências Policiais e Segurança Interna (ISCPSI) é um instituto policial de ensino superior universitário que tem por missão formar Chefes de polícia.",
+          "O Instituto Superior de Ciências Policiais e Segurança Interna (ISCPSI) é um instituto policial de ensino superior universitário que tem por missão formar oficiais de polícia.",
+          "O Instituto Superior de Ciências Policiais e Segurança Interna (ISCPSI) é um instituto policial de ensino superior universitário que tem por missão formar agentes de polícia.",
+          "Todas as respostas anteriores estão corretas."
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Diretor nacional",
+        "questionType": "text",
+        "answers": [
+          "O recrutamento para o cargo de diretor nacional é feito, por escolha, de entre superintendentes-chefes, ou indivíduos licenciados de reconhecida idoneidade e experiência profissional, vinculados ou não à Administração Pública.",
+          "O provimento do cargo é feito mediante despacho conjunto do Primeiro Ministro e Presidente da República.",
+          "O cargo é provi do em comissão de serviço por um período de quatro anos, renovável por iguais períodos.",
+          "A renovação da comissão de serviço deverá ser comunicada ao interessado até 35 dias antes do seu termo, cessando a mesma automaticamente no final do respetivo período se o ministro da tutela não tiver manifestado expressamente a intenção de a renovar, caso em que o dirigente se manterá no exercício de funções de gestão corrente até à nomeação do novo titular do cargo."
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Outros cargos de comando",
+        "questionType": "text",
+        "answers": [
+          "O provimento dos cargos de comandante do CI, GOE, CSP, CIEXSS e do GOC é feito por despacho do diretor nacional, sob proposta do comandante da UEP.",
+          "O provimento dos cargos de comandante de divisão é feito por despacho do diretor nacional, sob proposta do respetivo comandante de unidade.",
+          "O provimento dos cargos de comandante de esquadra é feito por despacho do respetivo comandante regional, metropolitano ou distrital de polícia.",
+          "Todas as respostas anteriores estão corretas."
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Constituem receitas da PSP:",
+        "questionType": "text",
+        "answers": [
+          "As dotações atribuídas pelo Orçamento do Estado.",
+          "As dotações atribuídas pelo Orçamento do Estado; O produto da venda de publicações e as quantias cobradas por atividades ou serviços prestados; Os juros dos depósitos bancários; As receitas próprias consignadas à PSP; Os saldos das receitas consignadas; Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título.",
+          "As dotações atribuídas pelo Orçamento do Estado; O produto da venda de publicações e as quantias cobradas por atividades ou serviços prestados.",
+          "As dotações atribuídas pelo Orçamento do Estado; O produto da venda de publicações e as quantias cobradas por atividades ou serviços prestados; Os juros dos depósitos bancários."
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Constituem despesas da PSP",
+        "questionType": "text",
+        "answers": [
+          "as que resultem de seguradoras decorrentes do funcionamento dos seus comandos e serviços e da atividade operacional , na prossecução das atribuições que lhe estão cometidas.",
+          "as que resultem de seguradoras decorrentes do funcionamento dos seus órgãos e serviços e da atividade operacional , na prossecução das atribuições que lhe estão cometidas.",
+          "as que resultem de encargos decorrentes do funcionamento dos seus órgãos e serviços e da atividade operacional , na prossecução das atribuições que lhe estão cometidas.",
+          "as que resultem de encargos decorrentes do funcionamento dos seus comandos e serviços e da atividade operacional , na prossecução das atribuições que lhe estão cometidas."
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "A atividade da PSP pode implicar",
+        "questionType": "text",
+        "answers": [
+          "a cobrança de despesas, mas não a aplicação de taxas a cargo de entidades que especialmente beneficiem com aquela atividade, nos termos a regular em diploma próprio.",
+          "a aplicação de taxas e a cobrança de despesas a cargo de entidades que especialmente beneficiem com aquela atividade, nos termos a regular em diploma próprio.",
+          "a aplicação de taxas, mas não a cobrança de despesas a cargo de entidades que especialmente beneficiem com aquela atividade, nos termos a regular em diploma próprio.",
+          "a aplicação de taxas e a cobrança de despesas a cargo de entidades que que beneficiem com a que a atividade como função publica, nos termos a regular em diploma próprio."
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "A Polícia de Segurança de Segurança Pública, adiante designada por PSP, é:",
+        "questionType": "text",
+        "answers": [
+          "Uma força de segurança, militarizada e armada e com natureza de serviço público;",
+          "Uma força de segurança, uniformizada e com natureza de serviço público;",
+          "Uma força de segurança, uniformizada e armada e com natureza de serviço público;",
+          "Uma força de segurança, uniformizada e armada e com natureza de serviço privado;"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "A PSP depende:",
+        "questionType": "text",
+        "answers": [
+          "Do membro do Governo responsável pela área da administração interna e a sua organização é única para todo o território nacional e internacional;",
+          "Da Ministra da Administração Interna;",
+          "Do membro do Governo responsável pela área da administração interna e a sua organização é única para todo o território nacional;",
+          "Do Diretor Nacional da PSP."
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "A Polícia de Segurança Pública é dotada de:",
+        "questionType": "text",
+        "answers": [
+          "Autonomia Administrativa e Financeira",
+          "Autonomia Financeira",
+          "Autonomia Administrativa",
+          "Autonomia Financeira e as dotações atribuídas pelo Orçamento do Estado"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Qual das alíneas não se encontra correta? São consideradas autoridades de polícia:",
+        "questionType": "text",
+        "answers": [
+          "O director nacional",
+          "Os directores nacionais-adjuntos",
+          "O inspector nacional",
+          "O inspetor da Unidade Especial de Polícia"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Qual das alíneas não se encontra correta? A PSP compreende:",
+        "questionType": "text",
+        "answers": [
+          "A Direcção Nacional",
+          "As unidades de polícia",
+          "Os estabelecimentos de ensino policial",
+          "O Conselho superior de polícia"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "São estabelecimentos de ensino policial:",
+        "questionType": "text",
+        "answers": [
+          "O Instituto Superior de Ciências Policiais e Segurança Interna",
+          "O Instituto Superior de Ciências Policiais e Segurança Interna e a Escola Prática de Polícia",
+          "A Escola Prática de Polícia",
+          "Nenhuma das alíneas está correta"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "A JSS é constituída por:",
+        "questionType": "text",
+        "answers": [
+          "Dois médicos nomeados pelo diretor nacional, que designa, de entre eles, o presidente",
+          "Quatro médicos nomeados pelo diretor nacional, que designa, de entre eles, o presidente",
+          "Seis médicos nomeados pelo diretor nacional, que designa, de entre eles, o presidente",
+          "Três médicos nomeados pelo diretor nacional, que designa, de entre eles, o presidente"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A unidade orgânica de operações e segurança compreende:",
+        "questionType": "text",
+        "answers": [
+          "As áreas de operações, informações policiais, investigação criminal, cinotecnia, segurança privada, sistemas de informação e comunicações",
+          "As áreas de operações, informações policiais, investigação criminal, armas e explosivos, segurança pública e privada, sistemas de informação e comunicações",
+          "As áreas de operações, informações policiais, investigação criminal, armas e explosivos, segurança privada, sistemas de informação e comunicações",
+          "As áreas de operações, informações policiais, investigação criminal, violência doméstica, segurança privada, sistemas de informação e comunicações"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "As subunidades dos comandos territoriais de polícia são:",
+        "questionType": "text",
+        "answers": [
+          "A divisão policial",
+          "As subunidades dos comandos regionais",
+          "A área operacional e administrativa",
+          "Nenhuma das alíneas está correta"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Qual das alíneas não se encontra correta? A UEP compreende as seguintes subunidades operacionais:",
+        "questionType": "text",
+        "answers": [
+          "O Corpo de Intervenção",
+          "O Grupo de Operações Especiais e de Intervenção Rápida",
+          "O Grupo Operacional Cinotécnico",
+          "O Corpo de Segurança Pessoal"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "O Grupo Operacional Cinotécnico (GOC) é:",
+        "questionType": "text",
+        "answers": [
+          "Uma unidade especialmente feita para a aplicação de canídeos no quadro de competências da PSP",
+          "Uma subunidade especialmente preparada e vocacionada para a aplicação de canídeos no quadro de competências da PSP",
+          "Uma subunidade especialmente feita para a aplicação de canídeos no quadro de competências da PSP",
+          "Uma unidade especialmente preparada e vocacionada para a aplicação de canídeos no quadro de competências da PSP"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "A Escola Prática de Polícia (EPP) é:",
+        "questionType": "text",
+        "answers": [
+          "Um estabelecimento de ensino policial, na dependência da Ministra da Administração Interna, que tem por missão ministrar cursos e estágios de formação, aperfeiçoamento e atualização de agentes e chefes, e de especialização para todo o pessoal da PSP",
+          "Um estabelecimento de ensino policial, na dependência do Ministro da Tutela, que tem por missão ministrar cursos e estágios de formação, aperfeiçoamento e atualização de agentes e chefes, e de especialização para todo o pessoal da PSP",
+          "Um estabelecimento de ensino policial, na dependência do Inspetor Nacional, que tem por missão ministrar cursos e estágios de formação, aperfeiçoamento e atualização de agentes e chefes, e de especialização para todo o pessoal da PSP",
+          "Um estabelecimento de ensino policial, na dependência do Diretor Nacional, que tem por missão ministrar cursos e estágios de formação, aperfeiçoamento e atualização de agentes e chefes, e de especialização para todo o pessoal da PSP"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A PSP depende do membro do Governo responsável pela área da defesa nacional e a sua organização é única para todo o território nacional.",
+        "questionType": "text",
+        "answers": [
+          "Verdadeiro",
+          "Falso"
+
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "A PSP pode prosseguir a sua missão fora do território nacional, desde que legalmente mandatada para esse efeito",
+        "questionType": "text",
+        "answers": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "No caso de atribuições cometidas simultaneamente à Guarda Nacional Republicana, a área de responsabilidade da PSP é definida por quem?",
+        "questionType": "text",
+        "answers": [
+          "Diretor nacional",
+          "Comandante da GNR",
+          "Definida por portaria do ministro da tutela",
+          "Comandante da PSP"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "A que símbolos tem direito a PSP?",
+        "questionType": "text",
+        "answers": [
+          "Brasão de armas, hino nacional, estandarte nacional",
+          "Brasão de armas, selo branco, hino nacional",
+          "Bandeira heráldicas, estandarte nacional, hino nacional, selo branco",
+          "Brasão de armas, bandeiras heráldicas, hino e selo branco"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A Direção Nacional, as unidades de polícia e os estabelecimentos de ensino têm direito a que símbolos?",
+        "questionType": "text",
+        "answers": [
+          "Brasão de armas, selo branco, hino nacional",
+          "Bandeira heráldica, estandarte nacional, hino nacional, selo branco",
+          "Brasão de armas, bandeiras heráldicas, hino e selo branco",
+          "Brasão de armas, bandeiras heráldicas e selo branco"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Considera-se força pública, o efetivo mínimo de quantos agentes em missão de serviço?",
+        "questionType": "text",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Indique qual é considerada autoridade de polícia:",
+        "questionType": "text",
+        "answers": [
+          "Comandante do UEP",
+          "Ministro da Tutela",
+          "Comandante da GNR",
+          "Sargento da GNR"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Qual é o órgão de caráter consultivo do diretor nacional ao qual compete pronunciar-se sobre os assuntos relativos à atividade da PSP e sua relação com as populações, apoiar a decisão do diretor nacional em assuntos de particular relevância?",
+        "questionType": "text",
+        "answers": [
+          "Conselho deontológico de disciplina",
+          "Conselho superior de polícia",
+          "Junta superior de saúde",
+          "Inspeção"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Por quem é dirigido o órgão de inspeção?",
+        "questionType": "text",
+        "answers": [
+          "Diretor nacional",
+          "Inspetor nacional",
+          "Comandante do UEP",
+          "Comandante da EPRI"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Por quantos médicos é constituída a junta superior de saúde?",
+        "questionType": "text",
+        "answers": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "A criação e extinção de subunidades dos comandos territoriais de polícia e da UEP são aprovadas por portaria do ministro da tutela.",
+        "questionType": "text",
+        "answers": [
+          "Verdadeiro",
+          "Falso"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Considera-se força pública, o efetivo mínimo de quantos agentes em missão de serviço?",
+        "questionType": "text",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      }
+
+    ]
+  }
+  

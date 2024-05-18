@@ -1,0 +1,34 @@
+{
+    "quizTitle": "teste",
+    "quizSynopsis": "1",
+    "questions": [
+      {
+        "question": "teste",
+        "questionType": "text",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": "1",
+        "point": "1",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForInorrectAnswer": "Respota Errada :("
+      },
+      {
+        "question": "q2",
+        "questionType": "text",
+        "messageForCorrectAnswer": "Resposta Correta!",
+        "messageForInorrectAnswer": "Respota Errada :(",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": "1"
+      }
+    ]
+  }
+  

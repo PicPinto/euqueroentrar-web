@@ -1,0 +1,1535 @@
+{
+  "appLocale": {
+    "landingHeaderText": "<questionLength> Questões",
+    "question": "Questão",
+    "startQuizBtn": "Começar",
+    "resultFilterAll": "Todos",
+    "resultFilterCorrect": "Correcto",
+    "resultFilterIncorrect": "Incorrecto",
+    "prevQuestionBtn": "Anterior",
+    "nextQuestionBtn": "Proximo",
+    "resultPagePoint": "Pontuação: <correctPoints> de <totalPoints>.",
+    "resultPageHeaderText": "Quiz completo! Alcançaste <correctIndexLength> pontos em <questionLength> questões.",
+    "marksOfQuestion":"(<marks> pontos)",
+    "singleSelectionTagText": "Resposta única",
+    "pickNumberOfSelection": "Selecione <numberOfSelection> questão"
+    },
+
+
+    "quizTitle": "Cultura Geral",
+    "quizSynopsis": "Testa os teus conhecimentos sobre Cultura Geral.",
+    "questions": [
+      {
+        "question": "Qual o maior rio europeu?",
+        "questionType": "text",
+        "answers": [
+          "Danúbio",
+          "Nilo",
+          "Volga",
+          "Reno"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Onde se situa o Banco Central Europeu?",
+        "questionType": "text",
+        "answers": [
+          "Bruxelas",
+          "Estrasburgo",
+          "Genebra",
+          "Frankfurt"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Em que país se situa a sede da ONU?",
+        "questionType": "text",
+        "answers": [
+          "Bruxelas",
+          "Genebra",
+          "Paris",
+          "Nova Iorque"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Em que país se situa a sede da NATO?",
+        "questionType": "text",
+        "answers": [
+          "Bruxelas",
+          "Genebra",
+          "Paris",
+          "Nova Iorque"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Quem faz parte do grupo dos cinco?",
+        "questionType": "text",
+        "answers": [
+          "Brasil, EUA, China, Japão, África do Sul",
+          "Brasil, México, China, Índia, África do Sul",
+          "Brasil, EUA, China, Japão, Rússia",
+          "Brasil, EUA, China, Índia, Rússia"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Qual a capital do Canadá?",
+        "questionType": "text",
+        "answers": [
+          "Toronto",
+          "Ottawa",
+          "Montreal",
+          "Vancouver"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Gronelândia pertence a que país?",
+        "questionType": "text",
+        "answers": [
+          "Dinamarca",
+          "Noruega",
+          "Canadá",
+          "Islândia"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "As ilhas selvagens pertencem a que país?",
+        "questionType": "text",
+        "answers": [
+          "Espanha",
+          "Portugal",
+          "Marrocos",
+          "Senegal"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Quantos deputados tem o Parlamento Europeu?",
+        "questionType": "text",
+        "answers": [
+          "751",
+          "732",
+          "705",
+          "700"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Qual a capital dos EUA?",
+        "questionType": "text",
+        "answers": [
+          "Nova Iorque",
+          "Washington DC",
+          "Miami",
+          "Las Vegas"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Qual a capital da Austrália?",
+        "questionType": "text",
+        "answers": [
+          "Sidney",
+          "Melbourne",
+          "Camberra",
+          "Brisbane"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Onde se iniciou o surto de Covid?",
+        "questionType": "text",
+        "answers": [
+          "Pequim",
+          "Xangai",
+          "Wuhan",
+          "Tianjin"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Em que ano Portugal recebeu o festival da Euro-canção?",
+        "questionType": "text",
+        "answers": [
+          "2016",
+          "2017",
+          "2018",
+          "2019"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Quem escreveu o livro “O Crime do Padre Amaro?",
+        "questionType": "text",
+        "answers": [
+          "José Saramago",
+          "Eça de Queirós",
+          "Fernando Pessoa",
+          "Miguel Torga"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Em que ano foram detonadas as bombas de Nagasaki e Hiroshima?",
+        "questionType": "text",
+        "answers": [
+          "1943",
+          "1944",
+          "1945",
+          "1946"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Quantas ilhas compõem o arquipélago dos Açores?",
+        "questionType": "text",
+        "answers": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Faixa de Gaza faz fronteira com que país?",
+        "questionType": "text",
+        "answers": [
+          "Afeganistão",
+          "Líbano",
+          "Israel",
+          "Iraque"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Qual o país mais pequeno do mundo?",
+        "questionType": "text",
+        "answers": [
+          "São Marino",
+          "Vaticano",
+          "Liechtenstein",
+          "Mónaco"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Quantos distritos compõe Portugal Continental?",
+        "questionType": "text",
+        "answers": [
+          "16",
+          "17",
+          "18",
+          "19"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Onde decorreu o mundial de 2022 de Futebol?",
+        "questionType": "text",
+        "answers": [
+          "EUA",
+          "Qatar",
+          "Arábia Saudita",
+          "Emirados Árabes Unidos"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Qual o estreito que limita o Continente Europeu do Asiático na Turquia?",
+        "questionType": "text",
+        "answers": [
+          "Estreito de Dardanelos",
+          "Estreito de Bósforo",
+          "Estreito de Messina",
+          "Estreito de Gibraltar"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Onde se situa Auschwitz?",
+        "questionType": "text",
+        "answers": [
+          "Áustria",
+          "Alemanha",
+          "Polónia",
+          "Eslováquia"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Onde nasceu Adolf Hitler?",
+        "questionType": "text",
+        "answers": [
+          "Alemanha",
+          "Áustria",
+          "Polónia",
+          "Eslováquia"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Em que Ilha Açoriana se situa a Base das Lages?",
+        "questionType": "text",
+        "answers": [
+          "Ilha Terceira",
+          "Ilha do Pico",
+          "Ilha do Corvo",
+          "Ilha São Miguel"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Em que ano foi assinado o Tratado de Lisboa?",
+        "questionType": "text",
+        "answers": [
+          "2005",
+          "2006",
+          "2007",
+          "2008"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Que nome tem o tratado que criou oficialmente a União Europeia?",
+        "questionType": "text",
+        "answers": [
+          "Tratado de Roma",
+          "Tratado de Estrasburgo",
+          "Tratado de Maastricht",
+          "Tratado de Lisboa"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Por quantas estrelas é composta a bandeira da União Europeia?",
+        "questionType": "text",
+        "answers": [
+          "8",
+          "9",
+          "10",
+          "12"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Qual destes países não compõe o Reino Unido?",
+        "questionType": "text",
+        "answers": [
+          "Inglaterra",
+          "Escócia",
+          "País de Gales",
+          "República da Irlanda"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Qual é o maior planeta do sistema solar?",
+        "questionType": "text",
+        "answers": [
+          "Mercúrio",
+          "Saturno",
+          "Júpiter",
+          "Úrano"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Qual destes países não é fundador da União Europeia?",
+        "questionType": "text",
+        "answers": [
+          "Alemanha",
+          "Itália",
+          "Luxemburgo",
+          "Espanha"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "O tema do famoso discurso “Eu Tenho um Sonho”, de Martin Luther King é:",
+        "questionType": "text",
+        "answers": [
+          "Igualdade das raças.",
+          "Justiça para os menos favorecidos.",
+          "Intolerância religiosa.",
+          "Prémio Nobel da Paz."
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "O tratado que estabeleceu a criação do Euro como moeda única europeia denomina-se como:",
+        "questionType": "text",
+        "answers": [
+          "Tratado de Maastricht",
+          "Tratado de Nice.",
+          "Tratado de Schengen.",
+          "Tratado de Lisboa."
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "A autoria da obra “Felizmente há Luar!” pertence a:",
+        "questionType": "text",
+        "answers": [
+          "Luís Vaz de Camões.",
+          "Almeida Garrett.",
+          "Fernando Pessoa.",
+          "Luís de Sttau Monteiro."
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Os principais cromossomos que determinam o sexo masculino são:",
+        "questionType": "text",
+        "answers": [
+          "Os V.",
+          "Os X.",
+          "Os Y.",
+          "Os W."
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "O nome dado a um campo de castanheiros é:",
+        "questionType": "text",
+        "answers": [
+          "Castanhal.",
+          "Pinhal",
+          "Souto.",
+          "Pomar."
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "As casas decimais do número pi são:",
+        "questionType": "text",
+        "answers": [
+          "Centenas",
+          "Infinitas",
+          "Cem",
+          "Milhares"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "O autor de “O Príncipe” é:",
+        "questionType": "text",
+        "answers": [
+          "Maquiavel",
+          "Antoine de Saint-Exupéry",
+          "Montesquieu",
+          "Rousseau"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "A data em que foi assinado o Tratado de Zamora, que estabeleceu a independência de Portugal, é:",
+        "questionType": "text",
+        "answers": [
+          "10 de outubro de 1125",
+          "5 de outubro de 1143",
+          "10 de junho de 1143",
+          "24 de maio de 1125"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "A obra “A Arte da Guerra” foi escrita por:",
+        "questionType": "text",
+        "answers": [
+          "Confúcio",
+          "Gandhi",
+          "Sun Tzu",
+          "Mao Tsé Tung"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "A cordilheira de montanhas mais extensa do mundo é:",
+        "questionType": "text",
+        "answers": [
+          "Cordilheira dos Himalaias.",
+          "Cordilheira dos Montes Urais",
+          "Cordilheira dos Andes.",
+          "Cordilheira do Cáucaso."
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Em que região de Portugal Continental se encontra a zona mais ocidental da Europa:",
+        "questionType": "text",
+        "answers": [
+          "Algarve",
+          "Alentejo",
+          "Açores",
+          "Estremadura"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A capital da Hungria é:",
+        "questionType": "text",
+        "answers": [
+          "Bucareste",
+          "Praga",
+          "Budapeste",
+          "Varsóvia"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Relativo à Segunda Guerra Mundial, o Dia da Vitória na Europa é celebrado a:",
+        "questionType": "text",
+        "answers": [
+          "8 de maio",
+          "13 de maio",
+          "6 de junho",
+          "13 de junho"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Relativamente a um vulcão, o canal que liga a câmara magmática ao exterior chama-se:",
+        "questionType": "text",
+        "answers": [
+          "Cratera vulcânica",
+          "Chaminé vulcânica",
+          "Cone vulcânico",
+          "Fumarola"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "A Escala Mercalli mede:",
+        "questionType": "text",
+        "answers": [
+          "A intensidade dos ventos",
+          "A intensidade sísmica de acordo com os danos provocados",
+          "A resistência dos minerais",
+          "A magnitude de um terremoto"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "“A Odisseia”, de 2016, é um filme de Jérôme Salle cuja narrativa se centra em:",
+        "questionType": "text",
+        "answers": [
+          "Stephen Hawking",
+          "Jacques-Yves Cousteau",
+          "Neil Armstrong",
+          "John Nash"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Os diamantes são constituídos por:",
+        "questionType": "text",
+        "answers": [
+          "Grafite",
+          "Berílio",
+          "Óxido de alumínio",
+          "Carbono"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Em 2021, o vencedor português do Prémio da União Europeia para a Literatura foi:",
+        "questionType": "text",
+        "answers": [
+          "João Pinto Coelho",
+          "Ana Pinto Magalhães",
+          "Frederico Pedreira",
+          "Elísio Amaral"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Qual matemático e geógrafo grego calculou o perímetro da Terra no ano 240 a.C.?",
+        "questionType": "text",
+        "answers": [
+          "Descartes",
+          "Sócrates",
+          "Sófocles",
+          "Eratóstenes"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Segundo o tratado assinado em 1971, que região do planeta ficou interdita a armas nucleares?",
+        "questionType": "text",
+        "answers": [
+          "Sara",
+          "África",
+          "Antártida",
+          "Bahamas"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Por que nome se tornou mais conhecido o escritor norte-americano Samuel Langhorne Clemens?",
+        "questionType": "text",
+        "answers": [
+          "Paul Auster",
+          "Mark Twain",
+          "Paulo Coelho",
+          "Nicolau Gogol"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Que expressão alemã significa “guerra-relâmpago”?",
+        "questionType": "text",
+        "answers": [
+          "Sauerkraut",
+          "Glasnost",
+          "Reichstag",
+          "Blitzkrieg"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Em que região de Portugal Continental se encontra a zona mais ocidental da Europa:",
+        "questionType": "text",
+        "answers": [
+          "Algarve",
+          "Alentejo",
+          "Açores",
+          "Estremadura"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "A capital da Hungria é:",
+        "questionType": "text",
+        "answers": [
+          "Bucareste",
+          "Praga",
+          "Budapeste",
+          "Varsóvia"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Relativo à Segunda Guerra Mundial, o Dia da Vitória na Europa é celebrado a:",
+        "questionType": "text",
+        "answers": [
+          "8 de maio",
+          "13 de maio",
+          "6 de junho",
+          "13 de junho"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Relativamente a um vulcão, o canal que liga a câmara magmática ao exterior chama-se:",
+        "questionType": "text",
+        "answers": [
+          "Cratera vulcânica",
+          "Chaminé vulcânica",
+          "Cone vulcânico",
+          "Fumarola"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "A Escala Mercalli mede:",
+        "questionType": "text",
+        "answers": [
+          "A intensidade dos ventos",
+          "A intensidade sísmica de acordo com os danos provocados",
+          "A resistência dos minerais",
+          "A magnitude de um terremoto"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "“A Odisseia”, de 2016, é um filme de Jérôme Salle cuja narrativa se centra em:",
+        "questionType": "text",
+        "answers": [
+          "Stephen Hawking",
+          "Jacques-Yves Cousteau",
+          "Neil Armstrong",
+          "John Nash"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Os diamantes são constituídos por:",
+        "questionType": "text",
+        "answers": [
+          "Grafite",
+          "Berílio",
+          "Óxido de alumínio",
+          "Carbono"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Em 2021, o vencedor português do Prémio da União Europeia para a Literatura foi:",
+        "questionType": "text",
+        "answers": [
+          "João Pinto Coelho",
+          "Ana Pinto Magalhães",
+          "Frederico Pedreira",
+          "Elísio Amaral"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Qual matemático e geógrafo grego calculou o perímetro da Terra no ano 240 a.C.?",
+        "questionType": "text",
+        "answers": [
+          "Descartes",
+          "Sócrates",
+          "Sófocles",
+          "Eratóstenes"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Segundo o tratado assinado em 1971, que região do planeta ficou interdita a armas nucleares?",
+        "questionType": "text",
+        "answers": [
+          "Sara",
+          "África",
+          "Antártida",
+          "Bahamas"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Por que nome se tornou mais conhecido o escritor norte-americano Samuel Langhorne Clemens?",
+        "questionType": "text",
+        "answers": [
+          "Paul Auster",
+          "Mark Twain",
+          "Paulo Coelho",
+          "Nicolau Gogol"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Que expressão alemã significa “guerra-relâmpago”?",
+        "questionType": "text",
+        "answers": [
+          "Sauerkraut",
+          "Glasnost",
+          "Reichstag",
+          "Blitzkrieg"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Como se chamou o Sporting Club de Portugal entre 1904 e 1906?",
+        "questionType": "text",
+        "answers": [
+          "Sporting de Portugal",
+          "Não teve nome",
+          "Leões da Estrela",
+          "Campo Grande Football Club"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Junto a que cidade do Novo México se julga ter caído um OVNI em 1947?",
+        "questionType": "text",
+        "answers": [
+          "Tijuana",
+          "Las Vegas",
+          "Roswell",
+          "Chihuahua"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Em Portugal, a que cidadãos foi retirado o direito de voto em 1913?",
+        "questionType": "text",
+        "answers": [
+          "Mulheres",
+          "Analfabetos",
+          "Emigrantes",
+          "Idosos"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Qual é o mais famoso detetive criado por Raymond Chandler?",
+        "questionType": "text",
+        "answers": [
+          "Hercule Poirot",
+          "Sherlock Holmes",
+          "Philip Marlowe",
+          "Agatha Christie"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Em que atividade se destacou Le Corbusier?",
+        "questionType": "text",
+        "answers": [
+          "Cinema",
+          "Teatro",
+          "Literatura",
+          "Arquitetura"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Que parque natural na região de Bragança foi criado em 1979?",
+        "questionType": "text",
+        "answers": [
+          "Peneda-Gerês",
+          "Alto Douro",
+          "Montesinho",
+          "Arrábida"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Como se chama a personagem principal do filme Touro Enraivecido?",
+        "questionType": "text",
+        "answers": [
+          "Sugar Ray Robinson",
+          "Belarmino",
+          "Muhamad Ali",
+          "Jake La Motta"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Quanto tempo demora a Lua a dar a volta à Terra (período orbital)?",
+        "questionType": "text",
+        "answers": [
+          "27 dias e 8 horas",
+          "25 dias",
+          "30 dias",
+          "29 dias e 12 horas"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Quem recebeu um prémio Nobel devido ao desenvolvimento da encefalografia arterial?",
+        "questionType": "text",
+        "answers": [
+          "Júlio de Matos",
+          "Egas Moniz",
+          "Michael Faraday",
+          "Sousa Martins"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Qual o eletrodoméstico que foi criado por Murray Spangler em 1907 e que ainda hoje é vendido praticamente inalterado?",
+        "questionType": "text",
+        "answers": [
+          "Esquentador",
+          "Torradeira",
+          "Micro-ondas",
+          "Aspirador"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Qual modalidade desportiva foi introduzida em Portugal Continental em 1888 por Guilherme Pinto Basto?",
+        "questionType": "text",
+        "answers": [
+          "Futebol",
+          "Corfebol",
+          "Andebol",
+          "Ténis"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Qual é o objeto de estudo do puericultor?",
+        "questionType": "text",
+        "answers": [
+          "Crianças",
+          "Coelhos",
+          "Abelhas",
+          "Galinhas"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Qual país sul-americano é o maior produtor de vinho?",
+        "questionType": "text",
+        "answers": [
+          "Brasil",
+          "Venezuela",
+          "Canadá",
+          "Argentina"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Quem comandou a segunda invasão napoleónica em Portugal?",
+        "questionType": "text",
+        "answers": [
+          "Napoleão",
+          "Junot",
+          "Wellington",
+          "Soult"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Qual é a corrente filosófica defendida por Martin Heidegger?",
+        "questionType": "text",
+        "answers": [
+          "Positivismo",
+          "Niilismo",
+          "Abstracionismo",
+          "Existencialismo"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Que corpo militar de elite foi criado em França por Luís XIII como guarda pessoal no século XVII e existiu até 1815?",
+        "questionType": "text",
+        "answers": [
+          "Guarda Suíça",
+          "Rangers",
+          "Escuteiros",
+          "Mosqueteiros"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "O que mudou na personagem Lucky Luke em 1983?",
+        "questionType": "text",
+        "answers": [
+          "Começou a usar óculos",
+          "Tornou-se vegetariano",
+          "Deixou de fumar",
+          "Deixou de usar armas"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Qual foi a primeira moeda a ser usada em toda a Europa Ocidental?",
+        "questionType": "text",
+        "answers": [
+          "ECU",
+          "Euro",
+          "Sestércio",
+          "Dracma"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Quem escreveu A Arte da Guerra?",
+        "questionType": "text",
+        "answers": [
+          "Confúcio",
+          "Gandhi",
+          "Sun Tzu",
+          "Mao Tsé Tung"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Que expressão náutica foi sugerida por Alexander Bell para ser usada quando se atende o telefone?",
+        "questionType": "text",
+        "answers": [
+          "Ahoy",
+          "Over",
+          "Hi",
+          "All aboard"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Que palavra de origem inuíte significa casa?",
+        "questionType": "text",
+        "answers": [
+          "Quiosque",
+          "Caiaque",
+          "Anoraque",
+          "Iglu"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Qual é o símbolo químico da prata?",
+        "questionType": "text",
+        "answers": [
+          "PT",
+          "PA",
+          "AG",
+          "PG"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Quantos jogadores formam uma equipa de pólo aquático?",
+        "questionType": "text",
+        "answers": [
+          "6",
+          "7",
+          "8",
+          "5"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Quantos corações tem um polvo?",
+        "questionType": "text",
+        "answers": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Onde está exposto o quadro 'Mona Lisa' de Leonardo DaVinci?",
+        "questionType": "text",
+        "answers": [
+          "Museu do Prado",
+          "Museu do Louvre",
+          "Capela Sistina",
+          "Vaticano"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Onde podemos visitar o monumento Stonehenge?",
+        "questionType": "text",
+        "answers": [
+          "EUA",
+          "Reino Unido",
+          "Canadá",
+          "Brasil"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Em que ano terminou a 2ª Guerra Mundial?",
+        "questionType": "text",
+        "answers": [
+          "1945",
+          "1946",
+          "1954",
+          "1942"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "De que poeta é a frase: 'Tudo vale a pena se a alma não é pequena'?",
+        "questionType": "text",
+        "answers": [
+          "Fernando Pessoa",
+          "Bocage",
+          "Eça de Queiroz",
+          "Luís de Camões"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Quem é o autor de 'Um estranho em Goa'?",
+        "questionType": "text",
+        "answers": [
+          "José Eduardo Agualusa",
+          "José Eduardo Abreu",
+          "José-Augusto França",
+          "José Eduardo França"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Mozart era?",
+        "questionType": "text",
+        "answers": [
+          "Húngaro",
+          "Alemão",
+          "Austríaco",
+          "Russo"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Que guerra está retratada em 'Guernica' de Picasso?",
+        "questionType": "text",
+        "answers": [
+          "Guerra Civil Espanhola",
+          "Primeira Guerra Mundial",
+          "Segunda Guerra Mundial",
+          "Guerra dos 100 anos"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Quem é a autora de 'O Princípio da Incerteza'?",
+        "questionType": "text",
+        "answers": [
+          "Agustina Bessa Luis",
+          "Clara Pinto Correia",
+          "Maria Velho da Costa",
+          "Josefa Almeida"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Craveirinha foi um conceituado Poeta de:",
+        "questionType": "text",
+        "answers": [
+          "Moçambique",
+          "Angola",
+          "Portugal",
+          "Guiné"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Fez furor a adaptação ao cinema do herói 'Homem-Aranha'; quem foi o criador da personagem, inicialmente para B.D.:",
+        "questionType": "text",
+        "answers": [
+          "Peter Parker",
+          "Stan Lee",
+          "Tim Burton",
+          "Jackson Perez"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "'Pasion' é um álbum da autoria de:",
+        "questionType": "text",
+        "answers": [
+          "Rodrigo Leão",
+          "Madredeus",
+          "Ciganos d'Ouro",
+          "Xutos e Pontapés"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Qual era a cor que Piet Mondrian nunca usava nos seus quadros?",
+        "questionType": "text",
+        "answers": [
+          "Vermelho",
+          "Amarelo",
+          "Verde",
+          "Preto"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Qual dos seguintes existencialistas recusou o prêmio Nobel da Literatura em 1964?",
+        "questionType": "text",
+        "answers": [
+          "Saint-John Perse",
+          "Jean-Paul Sartre",
+          "Saul Bellow",
+          "Albert Einstein"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Quantos filmes de Charlie Chaplin ganharam o OSCAR para melhor filme?",
+        "questionType": "text",
+        "answers": [
+          "6",
+          "2",
+          "4",
+          "0"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Quem foi o primeiro vocalista dos Pink Floyd?",
+        "questionType": "text",
+        "answers": [
+          "Roger Waters",
+          "Syd Barrett",
+          "Nick Mason",
+          "Robert Peaze"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Qual é a empresa cinematográfica de mais longa duração na história do cinema norte-americano?",
+        "questionType": "text",
+        "answers": [
+          "Paramount Studios",
+          "Universal Studios",
+          "20th Century Fox",
+          "Polyscope Company"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Quantos livros publicou em vida Fernando Pessoa?",
+        "questionType": "text",
+        "answers": [
+          "0",
+          "2",
+          "12",
+          "7"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "'Os Cus de Judas', 'Memória de Elefante' e 'Exortação aos Crocodilos' são romances da autoria de:",
+        "questionType": "text",
+        "answers": [
+          "José Saramago",
+          "Fernando Pessoa",
+          "António Lobo Antunes",
+          "David Mourão-Ferreira"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "A trilogia cinematográfica 'O Senhor dos Anéis' baseia-se na igual trilogia literária de que autor?",
+        "questionType": "text",
+        "answers": [
+          "J. R. R. Tolkien",
+          "Sir John Paul III",
+          "Geoffrey Chaucer",
+          "J. K. Rowling"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Normalmente, quantos litros de sangue uma pessoa tem?",
+        "questionType": "text",
+        "answers": [
+          "Tem entre 2 a 4 litros",
+          "Tem entre 4 a 6 litros",
+          "Tem 10 litros",
+          "Tem 7 litros"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "De quem é a famosa frase 'Penso, logo existo'?",
+        "questionType": "text",
+        "answers": [
+          "Platão",
+          "Galileu Galilei",
+          "Descartes",
+          "Sócrates"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Em que país foi inventado o chuveiro elétrico?",
+        "questionType": "text",
+        "answers": [
+          "França",
+          "Inglaterra",
+          "Brasil",
+          "Austrália"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Quais o menor e o maior país do mundo?",
+        "questionType": "text",
+        "answers": [
+          "Vaticano e Rússia",
+          "Nauru e China",
+          "Mônaco e Canadá",
+          "Malta e Estados Unidos"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+        "questionType": "text",
+        "answers": [
+          "O Senhor dos Anéis",
+          "Dom Quixote",
+          "O Pequeno Príncipe",
+          "Ela, a Feiticeira"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Atualmente, quantos elementos químicos a tabela periódica possui?",
+        "questionType": "text",
+        "answers": [
+          "113",
+          "109",
+          "118",
+          "92"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Quem pintou 'Guernica'?",
+        "questionType": "text",
+        "answers": [
+          "Paul Cézanne",
+          "Pablo Picasso",
+          "Diego Rivera",
+          "Salvador Dalí"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Quanto tempo a luz do Sol demora para chegar à Terra?",
+        "questionType": "text",
+        "answers": [
+          "12 minutos",
+          "1 dia",
+          "12 horas",
+          "8 minutos"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Qual a nacionalidade de Che Guevara?",
+        "questionType": "text",
+        "answers": [
+          "Cubana",
+          "Peruana",
+          "Boliviana",
+          "Argentina"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Em que período da pré-história o fogo foi descoberto?",
+        "questionType": "text",
+        "answers": [
+          "Neolítico",
+          "Paleolítico",
+          "Período da Pedra Polida",
+          "Idade Média"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Em qual local da Ásia o português é língua oficial?",
+        "questionType": "text",
+        "answers": [
+          "Índia",
+          "Filipinas",
+          "Moçambique",
+          "Macau"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "'It is six twenty' ou 'twenty past six'. Que horas são em inglês?",
+        "questionType": "text",
+        "answers": [
+          "12:06",
+          "6:20",
+          "6:02",
+          "12:20"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Quais destas construções famosas ficam nos Estados Unidos?",
+        "questionType": "text",
+        "answers": [
+          "Estátua da Liberdade, Golden Gate Bridge e Empire State Building",
+          "Estátua da Liberdade, Big Ben e The High Line",
+          "Angkor Wat, Taj Mahal e Skywalk no Grand Canyon",
+          "Lincoln Memorial, Sidney Opera House e Burj Khalifa"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Quais destas doenças são sexualmente transmissíveis?",
+        "questionType": "text",
+        "answers": [
+          "Aids, tricomoníase e ebola",
+          "Gonorreia, clamídia e sífilis",
+          "Hepatite B, febre tifoide e hanseníase",
+          "Botulismo, cistite e gonorreia"
+        ],
+        "correctAnswer": "2",
+        "point": "1"
+      },
+      {
+        "question": "Qual destes países é transcontinental?",
+        "questionType": "text",
+        "answers": [
+          "Rússia",
+          "Filipinas",
+          "Groenlândia",
+          "Tanzânia"
+        ],
+        "correctAnswer": "1",
+        "point": "1"
+      },
+      {
+        "question": "Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?",
+        "questionType": "text",
+        "answers": [
+          "A Filosofia",
+          "A Biologia",
+          "A Astronomia",
+          "A Mitologia"
+        ],
+        "correctAnswer": "4",
+        "point": "1"
+      },
+      {
+        "question": "Quais são os Deuses Gregos correspondentes a Júpiter e Plutão?",
+        "questionType": "text",
+        "answers": [
+          "Ares e Hermes",
+          "Cronos e Apolo",
+          "Zeus e Hades",
+          "Zeus e Ares"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Qual o maior animal terrestre?",
+        "questionType": "text",
+        "answers": [
+          "Baleia Azul",
+          "Dinossauro",
+          "Elefante africano",
+          "Tubarão Branco"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      },
+      {
+        "question": "Qual líder mundial ficou conhecida como 'Dama de Ferro'?",
+        "questionType": "text",
+        "answers": [
+          "Dilma Rousseff",
+          "Angela Merkel",
+          "Margaret Thatcher",
+          "Hillary Clinton"
+        ],
+        "correctAnswer": "3",
+        "point": "1"
+      }
+    ]
+}

@@ -1,0 +1,48 @@
+
+{
+  "appLocale": {
+    "landingHeaderText": "<questionLength> Questões",
+    "question": "Questão",
+    "startQuizBtn": "Começar",
+    "resultFilterAll": "Todos",
+    "resultFilterCorrect": "Correcto",
+    "resultFilterIncorrect": "Incorrecto",
+    "prevQuestionBtn": "Anterior",
+    "nextQuestionBtn": "Proximo",
+    "resultPagePoint": "Pontuação: <correctPoints> de <totalPoints>.",
+    "resultPageHeaderText": "Quiz completo! Alcançaste <correctIndexLength> pontos em <questionLength> questões.",
+    "marksOfQuestion":"(<marks> pontos)",
+    "singleSelectionTagText": "Resposta única",
+    "pickNumberOfSelection": "Selecione <numberOfSelection> questão"
+    },
+
+    "quizTitle": "Constituição da República Portuguesa",
+    "quizSynopsis": "Testa os teus conhecimentos sobre a Constituição da República Portuguesa.",
+    "questions": [
+        {
+          "question": "O mandato do Presidente da República tem a duração de quantos anos?",
+          "questionType": "text",
+          "answers": [
+            "4",
+            "5",
+            "6",
+            "8"
+          ],
+          "correctAnswer": "1",
+          "point": "1"
+        },
+        {
+          "question": "São elegíveis os cidadãos eleitores para Presidente da república, portugueses de origem, a partir de que idade?",
+          "questionType": "text",
+          "answers": [
+            "Maior que 33",
+            "Maior que 34",
+            "Maior que 35",
+            "Maior que 36"
+          ],
+          "correctAnswer": "3",
+          "point": "1"
+        }
+      ]
+    }
+         
