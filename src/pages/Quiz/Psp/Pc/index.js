@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import React, { useState } from 'react';
 import Quiz from 'react-quiz-component';
 
-import teste from './teste.json'
 
 import dudh from './dudh.json';
 import crp from './crp.json';
