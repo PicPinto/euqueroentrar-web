@@ -3,41 +3,6 @@
   command = "npm run build"
 
 [[redirects]]
-  from = "/signin"
-  to = "/signin"
-  status = 200
-
-[[redirects]]
-  from = "/signup"
-  to = "/signup"
-  status = 200
-
-[[redirects]]
-  from = "/"
-  to = "/"
-  status = 200
-
-[[redirects]]
-  from = "/pspmenu"
-  to = "/pspmenu"
-  status = 200
-
-[[redirects]]
-  from = "/gnrmenu"
-  to = "/gnrmenu"
-  status = 200
-
-[[redirects]]
-  from = "/psppc"
-  to = "/psppc"
-  status = 200
-
-[[redirects]]
-  from = "/gnrpc"
-  to = "/gnrpc"
-  status = 200
-
-[[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
