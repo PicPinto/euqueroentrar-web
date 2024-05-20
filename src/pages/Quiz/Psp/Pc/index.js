@@ -154,8 +154,10 @@ export default function PspPc() {
 
     return (
         <div className="quiz">
-            <h1 className='title'>Prova de Conhecimentos - PSP</h1>
+            {/* <h1 className='title'>Prova de Conhecimentos - PSP</h1> */}
+            {!showQuiz1 && !showQuiz2 && !showQuiz3 && !showQuiz4 && !showQuiz5 && !showQuiz6 && !showQuiz7 && !showQuiz8 &&
             <Link id='voltar' to={'/pspmenu'}> Voltar </Link>
+                }
 
             <div className='quizContainer'>
             
