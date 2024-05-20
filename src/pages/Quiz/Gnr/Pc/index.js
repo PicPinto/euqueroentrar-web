@@ -1,4 +1,4 @@
-import './styles.css'
+import './stylesgnr.css'
 import React, { useState } from 'react';
 import Quiz from 'react-quiz-component';
 import quizData from './quiz.json';
@@ -30,7 +30,7 @@ export default function GnrPc() {
     return (
         <div className="quiz">
             <h1>Quiz Page</h1>
-            <Link to={'/gnrmenu'}> Voltar </Link>
+            <Link id='btn' to={'/gnrmenu'}> Voltar </Link>
             
             {showQuiz1 && (
                 <div>

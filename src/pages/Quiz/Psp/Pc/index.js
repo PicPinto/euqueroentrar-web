@@ -1,4 +1,4 @@
-import './styles.css'
+import './pspPc.css'
 import { Link } from 'react-router-dom';
 import React, { useState } from 'react';
 import Quiz from 'react-quiz-component';
@@ -155,7 +155,7 @@ export default function PspPc() {
     return (
         <div className="quiz">
             <h1 className='title'>Prova de Conhecimentos - PSP</h1>
-            <Link to={'/pspmenu'}> Voltar </Link>
+            <Link id='voltar' to={'/pspmenu'}> Voltar </Link>
 
             <div className='quizContainer'>
             
@@ -170,12 +170,12 @@ export default function PspPc() {
                             onComplete={handleQuiz1Complete}
                             
                         />
-                        <button id='btn' onClick={() => setShowQuiz1(false)}>Sair</button>
+                        <button id='btn2' onClick={() => setShowQuiz1(false)}>Sair</button>
                     </div>
                 )}
 
                 {!showQuiz1 && !showQuiz2 && !showQuiz3 && !showQuiz4 && !showQuiz5 && !showQuiz6 && !showQuiz7 && !showQuiz8 &&(
-                    <button id='btn' onClick={openQuiz1}>Constituição da Republica Portuguesa</button>
+                    <button id='btn2' onClick={openQuiz1}>Constituição da Republica Portuguesa</button>
                 )}
 
                 {showQuiz2 && (
@@ -187,12 +187,12 @@ export default function PspPc() {
                             showInstantFeedback={true}
                             onComplete={handleQuiz2Complete}
                         />
-                        <button id='btn' onClick={() => setShowQuiz2(false)}>Sair</button>
+                        <button id='btn2' onClick={() => setShowQuiz2(false)}>Sair</button>
                     </div>
                 )}
 
                 {!showQuiz1 && !showQuiz2 && !showQuiz3 && !showQuiz4 && !showQuiz5 && !showQuiz6 && !showQuiz7 && !showQuiz8 && (
-                    <button id='btn' onClick={openQuiz2}>Cultura Geral</button>
+                    <button id='btn2' onClick={openQuiz2}>Cultura Geral</button>
                 )}
 
                 {showQuiz3 && (
@@ -204,12 +204,12 @@ export default function PspPc() {
                             showInstantFeedback={true}
                             onComplete={handleQuiz3Complete}
                         />
-                        <button id='btn' onClick={() => setShowQuiz3(false)}>Sair</button>
+                        <button id='btn2' onClick={() => setShowQuiz3(false)}>Sair</button>
                     </div>
                 )}
 
                 {!showQuiz1 && !showQuiz2 && !showQuiz3 && !showQuiz4 && !showQuiz5 && !showQuiz6 && !showQuiz7 && !showQuiz8 && (
-                    <button id='btn' onClick={openQuiz3}>Declaração Universal dos Direitos Humanos</button>
+                    <button id='btn2' onClick={openQuiz3}>Declaração Universal dos Direitos Humanos</button>
                 )}
 
                 {showQuiz4 && (
@@ -221,12 +221,12 @@ export default function PspPc() {
                             showInstantFeedback={true}
                             onComplete={handleQuiz4Complete}
                         />
-                        <button id='btn' onClick={() => setShowQuiz4(false)}>Sair</button>
+                        <button id='btn2' onClick={() => setShowQuiz4(false)}>Sair</button>
                     </div>
                 )}
 
                 {!showQuiz1 && !showQuiz2 && !showQuiz3 && !showQuiz4 && !showQuiz5 && !showQuiz6 && !showQuiz7 && !showQuiz8 && (
-                    <button id='btn' onClick={openQuiz4}>Estatutos</button>
+                    <button id='btn2' onClick={openQuiz4}>Estatutos</button>
                 )}
 
                 {showQuiz5 && (
@@ -238,12 +238,12 @@ export default function PspPc() {
                             showInstantFeedback={true}
                             onComplete={handleQuiz5Complete}
                         />
-                        <button id='btn' onClick={() => setShowQuiz5(false)}>Sair</button>
+                        <button id='btn2' onClick={() => setShowQuiz5(false)}>Sair</button>
                     </div>
                 )}
 
                 {!showQuiz1 && !showQuiz2 && !showQuiz3 && !showQuiz4 && !showQuiz5 && !showQuiz6 && !showQuiz7 && !showQuiz8 && (
-                    <button id='btn' onClick={openQuiz5}>Lei Orgânica</button>
+                    <button id='btn2' onClick={openQuiz5}>Lei Orgânica</button>
                 )}
 
                 {showQuiz6 && (
@@ -255,12 +255,12 @@ export default function PspPc() {
                             showInstantFeedback={true}
                             onComplete={handleQuiz6Complete}
                         />
-                        <button id='btn' onClick={() => setShowQuiz6(false)}>Sair</button>
+                        <button id='btn2' onClick={() => setShowQuiz6(false)}>Sair</button>
                     </div>
                 )}
 
                 {!showQuiz1 && !showQuiz2 && !showQuiz3 && !showQuiz4 && !showQuiz5 && !showQuiz6 && !showQuiz7 && !showQuiz8 && (
-                    <button id='btn' onClick={openQuiz6}>Teste Geral (1)</button>
+                    <button id='btn2' onClick={openQuiz6}>Teste Geral (1)</button>
                 )}
 
                 {showQuiz7 && (
@@ -272,12 +272,12 @@ export default function PspPc() {
                             showInstantFeedback={true}
                             onComplete={handleQuiz7Complete}
                         />
-                        <button id='btn' onClick={() => setShowQuiz7(false)}>Sair</button>
+                        <button id='btn2' onClick={() => setShowQuiz7(false)}>Sair</button>
                     </div>
                 )}
 
                 {!showQuiz1 && !showQuiz2 && !showQuiz3 && !showQuiz4 && !showQuiz5 && !showQuiz6 && !showQuiz7 && !showQuiz8 && (
-                    <button id='btn' onClick={openQuiz7}>Teste Geral (2)</button>
+                    <button id='btn2' onClick={openQuiz7}>Teste Geral (2)</button>
                 )}
 
                 {showQuiz8 && (
@@ -289,12 +289,12 @@ export default function PspPc() {
                             showInstantFeedback={true}
                             onComplete={handleQuiz8Complete}
                         />
-                        <button id='btn' onClick={() => setShowQuiz8(false)}>Sair</button>
+                        <button id='btn2' onClick={() => setShowQuiz8(false)}>Sair</button>
                     </div>
                 )}
 
                 {!showQuiz1 && !showQuiz2 && !showQuiz3 && !showQuiz4 && !showQuiz5 && !showQuiz6 && !showQuiz7 && !showQuiz8 && (
-                    <button id='btn' onClick={openQuiz8}>Teste Geral (3)</button>
+                    <button id='btn2' onClick={openQuiz8}>Teste Geral (3)</button>
                 )}
             </div>
         </div>

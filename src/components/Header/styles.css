@@ -1,16 +1,15 @@
 .sidebar {  
-    background-color: #025E73;
+    background-color: #001f3f;;
     height: 60px;
     margin: 0;
     display: flex;
-    flex-direction: column;
     justify-content: left;
-    align-items: left;
-    border-bottom: 2px solid #F2A71B;
+    align-items: center;
+    border-bottom: 2px solid #ffcc00;
 }
 
 .sidebar h1 {
-    color: #F2A71B;
+    color: #ffcc00;
     text-decoration: none;
 }
 
