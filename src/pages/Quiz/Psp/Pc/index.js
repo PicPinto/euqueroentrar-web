@@ -296,6 +296,9 @@ export default function PspPc() {
                 {!showQuiz1 && !showQuiz2 && !showQuiz3 && !showQuiz4 && !showQuiz5 && !showQuiz6 && !showQuiz7 && !showQuiz8 && (
                     <button id='btn2' onClick={openQuiz8}>Teste Geral (3)</button>
                 )}
+                <br />
+                <br />
+                <br />
             </div>
         </div>
     );
